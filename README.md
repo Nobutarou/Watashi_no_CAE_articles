@@ -512,3 +512,9 @@
 * [OS-T1040: 線形座屈解析セットアップを HyperMesh 2025 で行う例題](https://community.altair.com/discussion/62346/os-t1040-%E7%B7%9A%E5%BD%A2%E5%BA%A7%E5%B1%88%E8%A7%A3%E6%9E%90%E3%82%BB%E3%83%83%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%82%92-hypermesh-2025-%E3%81%A7%E8%A1%8C%E3%81%86%E4%BE%8B%E9%A1%8C#latest)
 * [OS-T1085:定常熱伝導解析を HyperMesh2025 で実施する例題](https://community.altair.com/discussion/62323/os-t1085-%E5%AE%9A%E5%B8%B8%E7%86%B1%E4%BC%9D%E5%B0%8E%E8%A7%A3%E6%9E%90%E3%82%92-hypermesh2025-%E3%81%A7%E5%AE%9F%E6%96%BD%E3%81%99%E3%82%8B%E4%BE%8B%E9%A1%8C#latest)
 * [/FUNCT_PYTHON で荷重 /CLOAD の PID 制御を行う例題](https://community.altair.com/discussion/62022/funct-python-%E3%81%A7%E8%8D%B7%E9%87%8D-cload-%E3%81%AE-pid-%E5%88%B6%E5%BE%A1%E3%82%92%E8%A1%8C%E3%81%86%E4%BE%8B%E9%A1%8C#latest)
+
+<!--
+:syntax off
+:highlight MyTips ctermfg=Cyan
+:2match MyTips /^\* \[[^]]*\]/
+-->
