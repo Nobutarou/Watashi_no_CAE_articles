@@ -514,7 +514,5 @@
 * [/FUNCT_PYTHON で荷重 /CLOAD の PID 制御を行う例題](https://community.altair.com/discussion/62022/funct-python-%E3%81%A7%E8%8D%B7%E9%87%8D-cload-%E3%81%AE-pid-%E5%88%B6%E5%BE%A1%E3%82%92%E8%A1%8C%E3%81%86%E4%BE%8B%E9%A1%8C#latest)
 
 <!--
-:syntax off
-:highlight MyTips ctermfg=Cyan
-:2match MyTips /^\* \[[^]]*\]/
+:syntax off | highlight MyTips ctermfg=Cyan | 2match MyTips /^\* \[[^]]*\]/
 -->
