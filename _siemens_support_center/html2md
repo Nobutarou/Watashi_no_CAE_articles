@@ -1,0 +1,5 @@
+#!/bin/zsh
+for i in *.htm{l,}(N)
+do
+  cat "$i"| pup 'span.forceOutputFormulaHtml json{}' | jq -r '.[] | "* [" + .children[0].text + "](" + .children[0].href + ")"'
+done
