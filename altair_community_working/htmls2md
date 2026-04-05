@@ -1,0 +1,6 @@
+#!/bin/zsh
+
+foreach i in *.html
+do
+  cat $i | pup 'div.Title a  json{}' | jq -r '.[] | "* [" + .text + "](" + .href + ")"' 
+done

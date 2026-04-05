@@ -1,5 +1,3 @@
-# 私の CAE 記事リンク集
-
 * [Nastran 線形ギャップの作成方法](https://community.altair.com/discussion/37927/nastran-%E7%B7%9A%E5%BD%A2%E3%82%AE%E3%83%A3%E3%83%83%E3%83%97%E3%81%AE%E4%BD%9C%E6%88%90%E6%96%B9%E6%B3%95#latest)
 * [ソルバーの結果から Python などの外部プログラムで結果処理、抽出する方法](https://community.altair.com/discussion/38755/%E3%82%BD%E3%83%AB%E3%83%90%E3%83%BC%E3%81%AE%E7%B5%90%E6%9E%9C%E3%81%8B%E3%82%89-python-%E3%81%AA%E3%81%A9%E3%81%AE%E5%A4%96%E9%83%A8%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E3%81%A7%E7%B5%90%E6%9E%9C%E5%87%A6%E7%90%86-%E6%8A%BD%E5%87%BA%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95#latest)
 * [ショートカットキー用に関数が用意されていない機能を、スクリプト経由でショートカットキー対応にする方法](https://community.altair.com/discussion/38663/%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%83%88%E3%82%AD%E3%83%BC%E7%94%A8%E3%81%AB%E9%96%A2%E6%95%B0%E3%81%8C%E7%94%A8%E6%84%8F%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%AA%E3%81%84%E6%A9%9F%E8%83%BD%E3%82%92-%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%83%88%E7%B5%8C%E7%94%B1%E3%81%A7%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%83%88%E3%82%AD%E3%83%BC%E5%AF%BE%E5%BF%9C%E3%81%AB%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95#latest)
