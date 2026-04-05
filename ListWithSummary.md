@@ -1,7 +1,8 @@
-# 私の CAE 記事リンク集
+# 要約付きリンク
 
-* [Nastran 線形ギャップの作成方法](https://community.altair.com/discussion/37927/nastran-%E7%B7%9A%E5%BD%A2%E3%82%AE%E3%83%A3%E3%83%83%E3%83%97%E3%81%AE%E4%BD%9C%E6%88%90%E6%96%B9%E6%B3%95#latest)
-* [ソルバーの結果から Python などの外部プログラムで結果処理、抽出する方法](https://community.altair.com/discussion/38755/%E3%82%BD%E3%83%AB%E3%83%90%E3%83%BC%E3%81%AE%E7%B5%90%E6%9E%9C%E3%81%8B%E3%82%89-python-%E3%81%AA%E3%81%A9%E3%81%AE%E5%A4%96%E9%83%A8%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E3%81%A7%E7%B5%90%E6%9E%9C%E5%87%A6%E7%90%86-%E6%8A%BD%E5%87%BA%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95#latest)
+# [Nastran 線形ギャップの作成方法](https://community.altair.com/discussion/37927/nastran-%E7%B7%9A%E5%BD%A2%E3%82%AE%E3%83%A3%E3%83%83%E3%83%97%E3%81%AE%E4%BD%9C%E6%88%90%E6%96%B9%E6%B3%95#latest)
+
+# [ソルバーの結果から Python などの外部プログラムで結果処理、抽出する方法](https://community.altair.com/discussion/38755/%E3%82%BD%E3%83%AB%E3%83%90%E3%83%BC%E3%81%AE%E7%B5%90%E6%9E%9C%E3%81%8B%E3%82%89-python-%E3%81%AA%E3%81%A9%E3%81%AE%E5%A4%96%E9%83%A8%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E3%81%A7%E7%B5%90%E6%9E%9C%E5%87%A6%E7%90%86-%E6%8A%BD%E5%87%BA%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95#latest)
 
 1. 本記事は、HyperStudyを使用して既存の外部ツール（Python等）で解析結果を処理したいユーザー向けである。
 2. タスクモデルを連携させ、ソルバー実行後に外部ツールで結果を抽出・処理する仕組みを解説している。
