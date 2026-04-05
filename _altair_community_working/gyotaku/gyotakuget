@@ -1,0 +1,11 @@
+#!/bin/zsh
+single-file-x86_64-linux \
+  --browser-executable-path $(which chromium) \
+  --browser-headless=false \
+  --browser-wait-until load \
+  --browser-wait-delay 5000 \
+    --browser-args '["--user-data-dir=/home/snob/.config/chromium/"]' \
+  "https://community.altair.com/discussion/37927/nastran-%E7%B7%9A%E5%BD%A2%E3%82%AE%E3%83%A3%E3%83%83%E3%83%97%E3%81%AE%E4%BD%9C%E6%88%90%E6%96%B9%E6%B3%95#latest" \
+  --filename-template "{page-title}.html"
+
+# まあ取ったところで、それを上げる権利は私には無い
