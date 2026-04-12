@@ -566,6 +566,7 @@
 * [自作ユニットセルの要件 for 2026](https://support.sw.siemens.com/knowledge-base/KB000191841_JA)
 * [陽解法で、エッジ対エッジ接触を行う方法](https://support.sw.siemens.com/knowledge-base/KB000193355_JA)
 * [静解析向けの縮退モデリングの最もわかりやすい例題](https://support.sw.siemens.com/ja-JP/okba/KB000201250_JA)
+* [時刻歴のデータから lininterp() 関数をもちいて 時刻指定で応答を取得する方法](https://support.sw.siemens.com/ja-JP/knowledge-base/KB000201453_JA)
 
 <!--
 :syntax off | highlight MyTips ctermfg=Cyan | 2match MyTips /^\* \[[^]]*\]/
