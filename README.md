@@ -568,6 +568,7 @@
 * [静解析向けの縮退モデリングの最もわかりやすい例題](https://support.sw.siemens.com/ja-JP/okba/KB000201250_JA)
 * [時刻歴のデータから lininterp() 関数をもちいて 時刻指定で応答を取得する方法](https://support.sw.siemens.com/ja-JP/knowledge-base/KB000201453_JA)
 * [簡単! 機械学習6: 射出成形の試し打ちに役立てる](https://blog.altairjp.co.jp/ml06-molding/)
+* [拘束反力、外力を .h3d ファイルに出力する方法](https://support.sw.siemens.com/ja-JP/knowledge-base/KB000204935_JA)
 
 <!--
 :syntax off | highlight MyTips ctermfg=Cyan | 2match MyTips /^\* \[[^]]*\]/
