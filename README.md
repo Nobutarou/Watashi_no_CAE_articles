@@ -570,6 +570,7 @@
 * [簡単! 機械学習6: 射出成形の試し打ちに役立てる](https://blog.altairjp.co.jp/ml06-molding/)
 * [拘束反力、外力を .h3d ファイルに出力する方法](https://support.sw.siemens.com/ja-JP/knowledge-base/KB000204935_JA)
 * [/TH/RBODY の荷重履歴は細かく出力する必要があります。](https://support.sw.siemens.com/ja-JP/okba/KB000207880_JA)
+* [陽解法の仕組み](https://support.sw.siemens.com/ja-JP/okba/KB000207882_JA)
 
 <!--
 :syntax off | highlight MyTips ctermfg=Cyan | 2match MyTips /^\* \[[^]]*\]/
