@@ -571,6 +571,9 @@
 * [拘束反力、外力を .h3d ファイルに出力する方法](https://support.sw.siemens.com/ja-JP/knowledge-base/KB000204935_JA)
 * [/TH/RBODY の荷重履歴は細かく出力する必要があります。](https://support.sw.siemens.com/ja-JP/okba/KB000207880_JA)
 * [陽解法の仕組み](https://support.sw.siemens.com/ja-JP/okba/KB000207882_JA)
+* [Crystal plasticity finite-element simulation of one-way and two-way cold rolling in pure iron](https://www.sciencedirect.com/science/article/pii/S2238785426008811)
+  * ユーザー材料のルール、書式、エラー回避などの技術サポートをしただけで、内容にはかかわっていません
+  * 名前が載って、うれしかったので、リストに入れてしまいました
 
 <!--
 :syntax off | highlight MyTips ctermfg=Cyan | 2match MyTips /^\* \[[^]]*\]/
