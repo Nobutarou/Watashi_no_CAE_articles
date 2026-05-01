@@ -574,6 +574,7 @@
 * [Crystal plasticity finite-element simulation of one-way and two-way cold rolling in pure iron](https://www.sciencedirect.com/science/article/pii/S2238785426008811)
   * ユーザー材料のルール、書式、エラー回避などの技術サポートをしただけで、内容にはかかわっていません
   * 名前が載って、うれしかったので、リストに入れてしまいました
+* [形状記憶合金用の高剛性非線形弾性材料 /MAT/LAW71 を最低限の入力パラメータで利用する例題](https://support.sw.siemens.com/ja-JP/okba/KB000208173_JA)
 
 <!--
 :syntax off | highlight MyTips ctermfg=Cyan | 2match MyTips /^\* \[[^]]*\]/
