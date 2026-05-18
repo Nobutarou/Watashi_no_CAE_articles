@@ -578,6 +578,7 @@
 * [MODCHG で CONTACT を変更しつつ、最適化を行う例題](support.sw.siemens.com/knowledge-base/KB000208594_JA)
 * [/INIBRI/EPSP を用いて、ソリッド要素に簡単に初期塑性ひずみを与える例題 ](https://support.sw.siemens.com/ja-JP/knowledge-base/KB000208756_JA)
 * [/SUBDOMAIN カードを使った、マルチドメイン計算の例題](https://support.sw.siemens.com/ja-JP/knowledge-base/KB000192424_JA)
+* [ソリッド要素の表面の応力、ひずみのみを出力する方法](https://support.sw.siemens.com/knowledge-base/KB000209056_JA)
 
 <!--
 :syntax off | highlight MyTips ctermfg=Cyan | 2match MyTips /^\* \[[^]]*\]/
