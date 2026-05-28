@@ -580,7 +580,4 @@
 * [/SUBDOMAIN カードを使った、マルチドメイン計算の例題](https://support.sw.siemens.com/ja-JP/knowledge-base/KB000192424_JA)
 * [ソリッド要素の表面の応力、ひずみのみを出力する方法](https://support.sw.siemens.com/knowledge-base/KB000209056_JA)
 * [拘束条件、強制変位に座標系を利用する方法](https://support.sw.siemens.com/ja-JP/okba/KB000209690_JA)
-
-<!--
-:syntax off | highlight MyTips ctermfg=Cyan | 2match MyTips /^\* \[[^]]*\]/
--->
+* [/PROP/TYPE4 バネは、慣性モーメントに気を付けておいた方が良いかもしれません。](https://support.sw.siemens.com/ja-JP/okba/KB000209886_JA)
