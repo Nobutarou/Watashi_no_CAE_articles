@@ -583,3 +583,4 @@
 * [/PROP/TYPE4 バネは、慣性モーメントに気を付けておいた方が良いかもしれません。](https://support.sw.siemens.com/ja-JP/okba/KB000209886_JA)
 * [DRESP1 で周波数応答解析の、周波数ごとの値の合計を取得する例題](https://support.sw.siemens.com/ja-JP/okba/KB000210252_JA)
 * [ひずみエネルギー出力 ESE でプロパティ単位での合計を出力する方法](https://support.sw.siemens.com/ja-JP/okba/KB000210335_JA)
+* [PFMODE で周波数応答に対するモードの寄与率を評価する方法](https://support.sw.siemens.com/ja-JP/okba/KB000210345_JA)
