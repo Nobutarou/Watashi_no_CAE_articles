@@ -586,3 +586,4 @@
 * [PFMODE で周波数応答に対するモードの寄与率を評価する方法](https://support.sw.siemens.com/ja-JP/okba/KB000210345_JA)
 * [トポロジー最適化と形状最適化を併用する例題](https://support.sw.siemens.com/ja-JP/okba/KB000210373_JA)
 * [ELEMQUAL で要素品質チェック基準を変更する方法と、PARAM,CHECKEL,NO でチェックをやめる方法](https://support.sw.siemens.com/ja-JP/knowledge-base/KB000210838_JA)
+* [Simlab Solid Element Formulation と Isolid の関係](https://support.sw.siemens.com/ja-JP/okba/KB000211808_JA)
