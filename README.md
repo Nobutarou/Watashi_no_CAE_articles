@@ -590,3 +590,4 @@
 * [ELEMQUAL で要素品質チェック基準を変更する方法と、PARAM,CHECKEL,NO でチェックをやめる方法](https://support.sw.siemens.com/ja-JP/knowledge-base/KB000210838_JA)
 * [Simlab Solid Element Formulation と Isolid の関係](https://support.sw.siemens.com/ja-JP/okba/KB000211808_JA)
 * [/MAT/LAW112 の最も基本的な例題](https://support.sw.siemens.com/ja-JP/okba/KB000211936_JA)
+* [MultiScale Designer には HyperMesh のインストールが必要です。](https://support.sw.siemens.com/ja-JP/okba/KB000212311_JA)
