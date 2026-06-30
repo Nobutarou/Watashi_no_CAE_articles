@@ -493,6 +493,7 @@
 * [鳥衝突の例題](https://community.altair.com/discussion/62641/%E9%B3%A5%E8%A1%9D%E7%AA%81%E3%81%AE%E4%BE%8B%E9%A1%8C)
 * [/IMPFLUX 強制熱流束の例題](https://community.altair.com/discussion/62624/impflux-%E5%BC%B7%E5%88%B6%E7%86%B1%E6%B5%81%E6%9D%9F%E3%81%AE%E4%BE%8B%E9%A1%8C)
 * [ユニットセル作成時に原因の分からないエラーが出るときは HyperMesh のパス設定を見直してください](https://community.altair.com/discussion/41434/%E3%83%A6%E3%83%8B%E3%83%83%E3%83%88%E3%82%BB%E3%83%AB%E4%BD%9C%E6%88%90%E6%99%82%E3%81%AB%E5%8E%9F%E5%9B%A0%E3%81%AE%E5%88%86%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84%E3%82%A8%E3%83%A9%E3%83%BC%E3%81%8C%E5%87%BA%E3%82%8B%E3%81%A8%E3%81%8D%E3%81%AF-hypermesh-%E3%81%AE%E3%83%91%E3%82%B9%E8%A8%AD%E5%AE%9A%E3%82%92%E8%A6%8B%E7%9B%B4%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84)
+  * https://support.sw.siemens.com/ja-JP/knowledge-base/AL41434
 * [ひずみ速度を出力する例題](https://community.altair.com/discussion/62608/%E3%81%B2%E3%81%9A%E3%81%BF%E9%80%9F%E5%BA%A6%E3%82%92%E5%87%BA%E5%8A%9B%E3%81%99%E3%82%8B%E4%BE%8B%E9%A1%8C)
 * [/MAT/LAW36 で破断設定していないのに、要素が削除されてしまう理由は？](https://community.altair.com/discussion/41343/mat-law36-%E3%81%A7%E7%A0%B4%E6%96%AD%E8%A8%AD%E5%AE%9A%E3%81%97%E3%81%A6%E3%81%84%E3%81%AA%E3%81%84%E3%81%AE%E3%81%AB-%E8%A6%81%E7%B4%A0%E3%81%8C%E5%89%8A%E9%99%A4%E3%81%95%E3%82%8C%E3%81%A6%E3%81%97%E3%81%BE%E3%81%86%E7%90%86%E7%94%B1%E3%81%AF)
 * [プライの配向角を最適化する例題](https://community.altair.com/discussion/62575/%E3%83%97%E3%83%A9%E3%82%A4%E3%81%AE%E9%85%8D%E5%90%91%E8%A7%92%E3%82%92%E6%9C%80%E9%81%A9%E5%8C%96%E3%81%99%E3%82%8B%E4%BE%8B%E9%A1%8C)
