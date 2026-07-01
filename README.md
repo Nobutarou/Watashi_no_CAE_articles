@@ -41,6 +41,7 @@
 * [素材の材料特性を同定する方法を動画で説明します。](https://community.altair.com/discussion/38282/%E7%B4%A0%E6%9D%90%E3%81%AE%E6%9D%90%E6%96%99%E7%89%B9%E6%80%A7%E3%82%92%E5%90%8C%E5%AE%9A%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95%E3%82%92%E5%8B%95%E7%94%BB%E3%81%A7%E8%AA%AC%E6%98%8E%E3%81%97%E3%81%BE%E3%81%99)
 * [アルテアの AI ツール 5選](https://community.altair.com/discussion/40351/%E3%82%A2%E3%83%AB%E3%83%86%E3%82%A2%E3%81%AE-ai-%E3%83%84%E3%83%BC%E3%83%AB-5%E9%81%B8)
 * [材料引張試験のくびれ発生後の応力低下データは、材料特性ではなく、形状の特性です。](https://community.altair.com/discussion/39624/%E6%9D%90%E6%96%99%E5%BC%95%E5%BC%B5%E8%A9%A6%E9%A8%93%E3%81%AE%E3%81%8F%E3%81%B3%E3%82%8C%E7%99%BA%E7%94%9F%E5%BE%8C%E3%81%AE%E5%BF%9C%E5%8A%9B%E4%BD%8E%E4%B8%8B%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AF-%E6%9D%90%E6%96%99%E7%89%B9%E6%80%A7%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F-%E5%BD%A2%E7%8A%B6%E3%81%AE%E7%89%B9%E6%80%A7%E3%81%A7%E3%81%99)
+  * https://support.sw.siemens.com/ja-JP/knowledge-base/AL39624
 * [速度依存性のない塑性材料 (要はプラスチック材料) の説明](https://community.altair.com/discussion/39052/%E9%80%9F%E5%BA%A6%E4%BE%9D%E5%AD%98%E6%80%A7%E3%81%AE%E3%81%AA%E3%81%84%E5%A1%91%E6%80%A7%E6%9D%90%E6%96%99-%E8%A6%81%E3%81%AF%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF%E6%9D%90%E6%96%99-%E3%81%AE%E8%AA%AC%E6%98%8E)
 * [材料特性の算出に、素材の大きさが影響するのか、実際にテストしてみましょう。](https://community.altair.com/discussion/38262/%E6%9D%90%E6%96%99%E7%89%B9%E6%80%A7%E3%81%AE%E7%AE%97%E5%87%BA%E3%81%AB-%E7%B4%A0%E6%9D%90%E3%81%AE%E5%A4%A7%E3%81%8D%E3%81%95%E3%81%8C%E5%BD%B1%E9%9F%BF%E3%81%99%E3%82%8B%E3%81%AE%E3%81%8B-%E5%AE%9F%E9%9A%9B%E3%81%AB%E3%83%86%E3%82%B9%E3%83%88%E3%81%97%E3%81%A6%E3%81%BF%E3%81%BE%E3%81%97%E3%82%87%E3%81%86)
 * [自作ユニットセルの要件、読み込み設定方法](https://community.altair.com/discussion/38528/%E8%87%AA%E4%BD%9C%E3%83%A6%E3%83%8B%E3%83%83%E3%83%88%E3%82%BB%E3%83%AB%E3%81%AE%E8%A6%81%E4%BB%B6-%E8%AA%AD%E3%81%BF%E8%BE%BC%E3%81%BF%E8%A8%AD%E5%AE%9A%E6%96%B9%E6%B3%95)
@@ -591,3 +592,4 @@
 * [Simlab Solid Element Formulation と Isolid の関係](https://support.sw.siemens.com/ja-JP/okba/KB000211808_JA)
 * [/MAT/LAW112 の最も基本的な例題](https://support.sw.siemens.com/ja-JP/okba/KB000211936_JA)
 * [MultiScale Designer には HyperMesh のインストールが必要です。](https://support.sw.siemens.com/ja-JP/okba/KB000212311_JA)
+* [MultiScale Designer で複数の繊維を混入した CFRP, GFRP には対応できるのでしょうか？](https://support.sw.siemens.com/ja-JP/product/249593481/knowledge-base/KB000212384_JA)
