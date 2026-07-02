@@ -593,3 +593,4 @@
 * [/MAT/LAW112 の最も基本的な例題](https://support.sw.siemens.com/ja-JP/okba/KB000211936_JA)
 * [MultiScale Designer には HyperMesh のインストールが必要です。](https://support.sw.siemens.com/ja-JP/okba/KB000212311_JA)
 * [MultiScale Designer で複数の繊維を混入した CFRP, GFRP には対応できるのでしょうか？](https://support.sw.siemens.com/ja-JP/product/249593481/knowledge-base/KB000212384_JA)
+* [射出成型解析の一部に繊維配向テンソルのマッピングができますか？](https://support.sw.siemens.com/ja-JP/okba/KB000212533_JA)
