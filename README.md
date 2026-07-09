@@ -207,6 +207,7 @@
 * [Radioss を HyperStudy でパラメータスタディ、最適化を行う 3 つの方法](https://community.altair.com/discussion/41591/radioss-%E3%82%92-hyperstudy-%E3%81%A7%E3%83%91%E3%83%A9%E3%83%A1%E3%83%BC%E3%82%BF%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3-%E6%9C%80%E9%81%A9%E5%8C%96%E3%82%92%E8%A1%8C%E3%81%86-3-%E3%81%A4%E3%81%AE%E6%96%B9%E6%B3%95)
 * [FEKO + Compose + OptiStruct でマイクロ波加熱シミュレーションを行う方法](https://community.altair.com/discussion/41035/feko-compose-optistruct-%E3%81%A7%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E6%B3%A2%E5%8A%A0%E7%86%B1%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%92%E8%A1%8C%E3%81%86%E6%96%B9%E6%B3%95)
 * [アワーグラスモードを見てみよう、そして回避しよう](https://community.altair.com/discussion/39699/%E3%82%A2%E3%83%AF%E3%83%BC%E3%82%B0%E3%83%A9%E3%82%B9%E3%83%A2%E3%83%BC%E3%83%89%E3%82%92%E8%A6%8B%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86-%E3%81%9D%E3%81%97%E3%81%A6%E5%9B%9E%E9%81%BF%E3%81%97%E3%82%88%E3%81%86)
+  * https://support.sw.siemens.com/ja-JP/knowledge-base/AL39699
 * [Radioss に MultiScale Designer を組み合わせることで、引張りと圧縮で弾性係数を変化させる方法をお伝えします](https://community.altair.com/discussion/38809/radioss-%E3%81%AB-multiscale-designer-%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7-%E5%BC%95%E5%BC%B5%E3%82%8A%E3%81%A8%E5%9C%A7%E7%B8%AE%E3%81%A7%E5%BC%BE%E6%80%A7%E4%BF%82%E6%95%B0%E3%82%92%E5%A4%89%E5%8C%96%E3%81%95%E3%81%9B%E3%82%8B%E6%96%B9%E6%B3%95%E3%82%92%E3%81%8A%E4%BC%9D%E3%81%88%E3%81%97%E3%81%BE%E3%81%99)
 * [繊維強化樹脂材料 /MAT/LAW25 CRASURV 材料のパラメータ設定方法をお伝えします。(Parameter explanation of /MAT/LAW25, CRASURV for a fiber reinforced plastic material)](https://community.altair.com/discussion/41462/%E7%B9%8A%E7%B6%AD%E5%BC%B7%E5%8C%96%E6%A8%B9%E8%84%82%E6%9D%90%E6%96%99-mat-law25-crasurv-%E6%9D%90%E6%96%99%E3%81%AE%E3%83%91%E3%83%A9%E3%83%A1%E3%83%BC%E3%82%BF%E8%A8%AD%E5%AE%9A%E6%96%B9%E6%B3%95%E3%82%92%E3%81%8A%E4%BC%9D%E3%81%88%E3%81%97%E3%81%BE%E3%81%99-parameter-explanation-of-mat-law25-crasurv-for-a-fiber-reinforced-plastic-material)
 * [/PROP/SOLID の推奨設定をお伝えします](https://support.sw.siemens.com/ja-JP/knowledge-base/AL41420)
@@ -448,7 +449,6 @@
 * [Radioss で並列計算がひどくパフォーマンス悪いと思ったときにすること](https://community.altair.com/discussion/61737/radioss-%E3%81%A7%E4%B8%A6%E5%88%97%E8%A8%88%E7%AE%97%E3%81%8C%E3%81%B2%E3%81%A9%E3%81%8F%E3%83%91%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%B3%E3%82%B9%E6%82%AA%E3%81%84%E3%81%A8%E6%80%9D%E3%81%A3%E3%81%9F%E3%81%A8%E3%81%8D%E3%81%AB%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8)
 * [/INTER/TYPE2 の結合力の合力の履歴出力を行う問題](https://community.altair.com/discussion/63948/inter-type2-%E3%81%AE%E7%B5%90%E5%90%88%E5%8A%9B%E3%81%AE%E5%90%88%E5%8A%9B%E3%81%AE%E5%B1%A5%E6%AD%B4%E5%87%BA%E5%8A%9B%E3%82%92%E8%A1%8C%E3%81%86%E5%95%8F%E9%A1%8C)
 * [/PROP/SPR_PRE の fct_ID2 で荷重が下がっている間はどのような挙動になるのでしょうか？](https://community.altair.com/discussion/41292/prop-spr-pre-%E3%81%AE-fct-id2-%E3%81%A7%E8%8D%B7%E9%87%8D%E3%81%8C%E4%B8%8B%E3%81%8C%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E9%96%93%E3%81%AF%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E6%8C%99%E5%8B%95%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%AE%E3%81%A7%E3%81%97%E3%82%87%E3%81%86%E3%81%8B)
-* [簡単なボルトプリテンション](https://community.altair.com/discussion/3328/%E7%B0%A1%E5%8D%98%E3%81%AA%E3%83%9C%E3%83%AB%E3%83%88%E3%83%97%E3%83%AA%E3%83%86%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3)
 * [N2S 接触で、角部で当たらないときがあることを知る例題](https://community.altair.com/discussion/63939/n2s-%E6%8E%A5%E8%A7%A6%E3%81%A7-%E8%A7%92%E9%83%A8%E3%81%A7%E5%BD%93%E3%81%9F%E3%82%89%E3%81%AA%E3%81%84%E3%81%A8%E3%81%8D%E3%81%8C%E3%81%82%E3%82%8B%E3%81%93%E3%81%A8%E3%82%92%E7%9F%A5%E3%82%8B%E4%BE%8B%E9%A1%8C)
 * [熱ひずみを出力する例題](https://community.altair.com/discussion/63932/%E7%86%B1%E3%81%B2%E3%81%9A%E3%81%BF%E3%82%92%E5%87%BA%E5%8A%9B%E3%81%99%E3%82%8B%E4%BE%8B%E9%A1%8C)
 * [HyperStudy でサンプリングして、機械学習予測モデル付のエクセルファイルを作る方法](https://community.altair.com/discussion/39679/hyperstudy-%E3%81%A7%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%97%E3%81%A6-%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E4%BA%88%E6%B8%AC%E3%83%A2%E3%83%87%E3%83%AB%E4%BB%98%E3%81%AE%E3%82%A8%E3%82%AF%E3%82%BB%E3%83%AB%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%92%E4%BD%9C%E3%82%8B%E6%96%B9%E6%B3%95)
@@ -564,7 +564,8 @@
 * [ランダム応答解析で、累積RMS を出力する方法](https://support.sw.siemens.com/knowledge-base/KB000192791_JA)
 * [強制速度 (/IMPVEL) を、センサー (/SENSOR) を使って、目標荷重で止める方法](https://support.sw.siemens.com/knowledge-base/KB000193505_JA)
 * [強制速度 (/IMPVEL) をセンサー (/SENSOR) で解除する方法](https://support.sw.siemens.com/knowledge-base/KB000193504_JA)
-* [簡単なボルトプリテンション](https://support.sw.siemens.com/knowledge-base/AL3328)
+* [簡単なボルトプリテンション](https://community.altair.com/discussion/3328/%E7%B0%A1%E5%8D%98%E3%81%AA%E3%83%9C%E3%83%AB%E3%83%88%E3%83%97%E3%83%AA%E3%83%86%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3)
+  * https://support.sw.siemens.com/knowledge-base/AL3328
 * [線形解析には接触カード CONTACT を使わない方が良い理由](https://support.sw.siemens.com/knowledge-base/KB000192318_JA)
 * [自作ユニットセルの要件 for 2026](https://support.sw.siemens.com/knowledge-base/KB000191841_JA)
 * [陽解法で、エッジ対エッジ接触を行う方法](https://support.sw.siemens.com/knowledge-base/KB000193355_JA)
@@ -594,3 +595,4 @@
 * [MultiScale Designer には HyperMesh のインストールが必要です。](https://support.sw.siemens.com/ja-JP/okba/KB000212311_JA)
 * [MultiScale Designer で複数の繊維を混入した CFRP, GFRP には対応できるのでしょうか？](https://support.sw.siemens.com/ja-JP/product/249593481/knowledge-base/KB000212384_JA)
 * [射出成型解析の一部に繊維配向テンソルのマッピングができますか？](https://support.sw.siemens.com/ja-JP/okba/KB000212533_JA)
+* [1次テトラが曲げに硬くなる様子を観察する例題](https://support.sw.siemens.com/ja-JP/okba/KB000213156_JA)
