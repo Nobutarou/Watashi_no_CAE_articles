@@ -417,6 +417,7 @@
 * [EIGRL (Lanczos 法) と EIGRA (AMSES 法) の違いを説明します。](https://community.altair.com/discussion/41051/eigrl-lanczos-%E6%B3%95-%E3%81%A8-eigra-amses-%E6%B3%95-%E3%81%AE%E9%81%95%E3%81%84%E3%82%92%E8%AA%AC%E6%98%8E%E3%81%97%E3%81%BE%E3%81%99)
 * [長さゼロの要素、短い要素、隙間の狭い場所での操作性を上げるtransformカードとHMでの使い方](https://community.altair.com/discussion/41466/%E9%95%B7%E3%81%95%E3%82%BC%E3%83%AD%E3%81%AE%E8%A6%81%E7%B4%A0-%E7%9F%AD%E3%81%84%E8%A6%81%E7%B4%A0-%E9%9A%99%E9%96%93%E3%81%AE%E7%8B%AD%E3%81%84%E5%A0%B4%E6%89%80%E3%81%A7%E3%81%AE%E6%93%8D%E4%BD%9C%E6%80%A7%E3%82%92%E4%B8%8A%E3%81%92%E3%82%8Btransform%E3%82%AB%E3%83%BC%E3%83%89%E3%81%A8hm%E3%81%A7%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9)
 * [ゴムの材料試験は、引張試験と圧縮試験のどちらを使いますか？](https://community.altair.com/discussion/41632/%E3%82%B4%E3%83%A0%E3%81%AE%E6%9D%90%E6%96%99%E8%A9%A6%E9%A8%93%E3%81%AF-%E5%BC%95%E5%BC%B5%E8%A9%A6%E9%A8%93%E3%81%A8%E5%9C%A7%E7%B8%AE%E8%A9%A6%E9%A8%93%E3%81%AE%E3%81%A9%E3%81%A1%E3%82%89%E3%82%92%E4%BD%BF%E3%81%84%E3%81%BE%E3%81%99%E3%81%8B)
+  * https://support.sw.siemens.com/ja-JP/product/237947268/knowledge-base/AL41632
 * [剛壁の動かし方](https://community.altair.com/discussion/41475/%E5%89%9B%E5%A3%81%E3%81%AE%E5%8B%95%E3%81%8B%E3%81%97%E6%96%B9)
 * [Radioss で局所座標系を使う方法](https://community.altair.com/discussion/41419/radioss-%E3%81%A7%E5%B1%80%E6%89%80%E5%BA%A7%E6%A8%99%E7%B3%BB%E3%82%92%E4%BD%BF%E3%81%86%E6%96%B9%E6%B3%95)
 * [Radioss: LS-DYNA リーダーのすすめ](https://community.altair.com/discussion/40319/radioss-ls-dyna-%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%81%AE%E3%81%99%E3%81%99%E3%82%81)
