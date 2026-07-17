@@ -600,3 +600,4 @@
 * [MultiScale Designer で複数の繊維を混入した CFRP, GFRP には対応できるのでしょうか？](https://support.sw.siemens.com/ja-JP/product/249593481/knowledge-base/KB000212384_JA)
 * [射出成型解析の一部に繊維配向テンソルのマッピングができますか？](https://support.sw.siemens.com/ja-JP/okba/KB000212533_JA)
 * [1次テトラが曲げに硬くなる様子を観察する例題](https://support.sw.siemens.com/ja-JP/okba/KB000213156_JA)
+* [Elapsed time と CPU time を比較して、計算環境の健康度を観測する](https://support.sw.siemens.com/ja-JP/okba/KB000214273_JA)
