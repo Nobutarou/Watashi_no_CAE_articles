@@ -604,3 +604,4 @@
 * [射出成型解析の一部に繊維配向テンソルのマッピングができますか？](https://support.sw.siemens.com/ja-JP/okba/KB000212533_JA)
 * [1次テトラが曲げに硬くなる様子を観察する例題](https://support.sw.siemens.com/ja-JP/okba/KB000213156_JA)
 * [Elapsed time と CPU time を比較して、計算環境の健康度を観測する](https://support.sw.siemens.com/ja-JP/okba/KB000214273_JA)
+* [ボルトプリテンション、/PRELOAD の Tstop の影響を調べる例題](https://support.sw.siemens.com/ja-JP/okba/KB000214571_JA)
