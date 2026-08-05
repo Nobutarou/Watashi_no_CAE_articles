@@ -607,3 +607,4 @@
 * [Elapsed time と CPU time を比較して、計算環境の健康度を観測する](https://support.sw.siemens.com/ja-JP/okba/KB000214273_JA)
 * [ボルトプリテンション、/PRELOAD の Tstop の影響を調べる例題](https://support.sw.siemens.com/ja-JP/okba/KB000214571_JA)
 * [/IOFLAG カードで、接触の初期干渉している節点を観察する方法](https://support.sw.siemens.com/ja-JP/okba/KB000215992_JA)
+* [アニメーションファイルを間引いて小さくする方法](https://support.sw.siemens.com/ja-JP/okba/KB000216126_JA)
