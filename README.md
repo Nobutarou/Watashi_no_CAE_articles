@@ -611,3 +611,4 @@
 * [/IOFLAG カードで、接触の初期干渉している節点を観察する方法](https://support.sw.siemens.com/ja-JP/okba/KB000215992_JA)
 * [アニメーションファイルを間引いて小さくする方法](https://support.sw.siemens.com/ja-JP/okba/KB000216126_JA)
 * [/INTER/TYPE2 の Spotflag=1, 28 の質量増加の違いについて](https://support.sw.siemens.com/ja-JP/okba/KB000217122_JA)
+* [トポロジー最適化の結果と、設計性直した形状の結果が合わない理由](https://support.sw.siemens.com/ja-JP/okba/KB000217217_JA)
