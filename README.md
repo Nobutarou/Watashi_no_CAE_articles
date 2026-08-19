@@ -102,6 +102,7 @@
 * [ビーム断面特性の評価方法](https://community.altair.com/discussion/41268/%E3%83%93%E3%83%BC%E3%83%A0%E6%96%AD%E9%9D%A2%E7%89%B9%E6%80%A7%E3%81%AE%E8%A9%95%E4%BE%A1%E6%96%B9%E6%B3%95)
 * [等方性材料の入力方法](https://community.altair.com/discussion/41217/%E7%AD%89%E6%96%B9%E6%80%A7%E6%9D%90%E6%96%99%E3%81%AE%E5%85%A5%E5%8A%9B%E6%96%B9%E6%B3%95)
 * [サブモデルを使うと、モデルの回転を簡単に行うことができます。](https://community.altair.com/discussion/41428/%E3%82%B5%E3%83%96%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E4%BD%BF%E3%81%86%E3%81%A8-%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E5%9B%9E%E8%BB%A2%E3%82%92%E7%B0%A1%E5%8D%98%E3%81%AB%E8%A1%8C%E3%81%86%E3%81%93%E3%81%A8%E3%81%8C%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99)
+  * https://support.sw.siemens.com/ja-JP/knowledge-base/AL41428
 * [SPH と構造メッシュの接触に関する Tips](https://community.altair.com/discussion/41504/sph-%E3%81%A8%E6%A7%8B%E9%80%A0%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5%E3%81%AE%E6%8E%A5%E8%A7%A6%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B-tips)
 * [/MAT/MDS で要素を消す方法 (v2022 版)](https://community.altair.com/discussion/41328/mat-mds-%E3%81%A7%E8%A6%81%E7%B4%A0%E3%82%92%E6%B6%88%E3%81%99%E6%96%B9%E6%B3%95-v2022-%E7%89%88)
 * [/RBODY を使ったらいきなり要素がぶっ壊れました](https://community.altair.com/discussion/41481/rbody-%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%89%E3%81%84%E3%81%8D%E3%81%AA%E3%82%8A%E8%A6%81%E7%B4%A0%E3%81%8C%E3%81%B6%E3%81%A3%E5%A3%8A%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F)
@@ -301,6 +302,7 @@
 * [結合条件は、まよったら、両側から 2個結合条件を付けておけば OK です。](https://community.altair.com/discussion/41495/%E7%B5%90%E5%90%88%E6%9D%A1%E4%BB%B6%E3%81%AF-%E3%81%BE%E3%82%88%E3%81%A3%E3%81%9F%E3%82%89-%E4%B8%A1%E5%81%B4%E3%81%8B%E3%82%89-2%E5%80%8B%E7%B5%90%E5%90%88%E6%9D%A1%E4%BB%B6%E3%82%92%E4%BB%98%E3%81%91%E3%81%A6%E3%81%8A%E3%81%91%E3%81%B0-ok-%E3%81%A7%E3%81%99)
 * [OptiStruct: MATHE: フォーム材の例題](https://community.altair.com/discussion/61482/optistruct-mathe-%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E6%9D%90%E3%81%AE%E4%BE%8B%E9%A1%8C)
 * [/MAT/LAW12 と /FAIL/HASHIN で作る破断ありの簡単な複合材料](https://community.altair.com/discussion/37525/mat-law12-%E3%81%A8-fail-hashin-%E3%81%A7%E4%BD%9C%E3%82%8B%E7%A0%B4%E6%96%AD%E3%81%82%E3%82%8A%E3%81%AE%E7%B0%A1%E5%8D%98%E3%81%AA%E8%A4%87%E5%90%88%E6%9D%90%E6%96%99)
+  * https://support.sw.siemens.com/ja-JP/knowledge-base/AL37525
 * [OptiStruct: 非線形解析をリスタートするシンプルな例題](https://community.altair.com/discussion/61436/optistruct-%E9%9D%9E%E7%B7%9A%E5%BD%A2%E8%A7%A3%E6%9E%90%E3%82%92%E3%83%AA%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%81%99%E3%82%8B%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA%E4%BE%8B%E9%A1%8C)
 * [/MAT/LAW25 CRASURV 材料を順を追って理解していきます](https://community.altair.com/discussion/60660/mat-law25-crasurv-%E6%9D%90%E6%96%99%E3%82%92%E9%A0%86%E3%82%92%E8%BF%BD%E3%81%A3%E3%81%A6%E7%90%86%E8%A7%A3%E3%81%97%E3%81%A6%E3%81%84%E3%81%8D%E3%81%BE%E3%81%99)
 * [最適化をリスタートする例題](https://community.altair.com/discussion/61412/%E6%9C%80%E9%81%A9%E5%8C%96%E3%82%92%E3%83%AA%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%81%99%E3%82%8B%E4%BE%8B%E9%A1%8C)
