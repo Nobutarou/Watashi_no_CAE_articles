@@ -618,3 +618,4 @@
 * [トポロジー最適化の結果と、設計性直した形状の結果が合わない理由](https://support.sw.siemens.com/ja-JP/okba/KB000217217_JA)
 * [/INIBRI/ORTHO, /STATE/BRICK/ORTHO を使って、異方性材料モデルの引継ぎ解析を行う例題:ソリッド編](https://support.sw.siemens.com/ja-JP/okba/KB000217244_JA)
 * [/INISHE/ORTH_LOC, /STATE/SHELL/ORTHL を用いて、異方性材料モデルの引継ぎ解析を行う例題:シェル編](https://support.sw.siemens.com/ja-JP/okba/KB000217307_JA)
+* [慣性リリーフ解析の一番最初の概念の説明](https://support.sw.siemens.com/ja-JP/okba/KB000217955_JA)
