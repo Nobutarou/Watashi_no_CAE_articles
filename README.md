@@ -222,7 +222,7 @@
 * [繊維強化樹脂材料 /MAT/LAW25 CRASURV 材料のパラメータ設定方法をお伝えします。(Parameter explanation of /MAT/LAW25, CRASURV for a fiber reinforced plastic material)](https://community.altair.com/discussion/41462/%E7%B9%8A%E7%B6%AD%E5%BC%B7%E5%8C%96%E6%A8%B9%E8%84%82%E6%9D%90%E6%96%99-mat-law25-crasurv-%E6%9D%90%E6%96%99%E3%81%AE%E3%83%91%E3%83%A9%E3%83%A1%E3%83%BC%E3%82%BF%E8%A8%AD%E5%AE%9A%E6%96%B9%E6%B3%95%E3%82%92%E3%81%8A%E4%BC%9D%E3%81%88%E3%81%97%E3%81%BE%E3%81%99-parameter-explanation-of-mat-law25-crasurv-for-a-fiber-reinforced-plastic-material)
 * [/PROP/SOLID の推奨設定をお伝えします](https://support.sw.siemens.com/ja-JP/knowledge-base/AL41420)
 * [6自由度バネ要素特性 /PROP/TYPE13 の質量、慣性モーメントの決め方の一つを説明します。](https://community.altair.com/discussion/41540/6%E8%87%AA%E7%94%B1%E5%BA%A6%E3%83%90%E3%83%8D%E8%A6%81%E7%B4%A0%E7%89%B9%E6%80%A7-prop-type13-%E3%81%AE%E8%B3%AA%E9%87%8F-%E6%85%A3%E6%80%A7%E3%83%A2%E3%83%BC%E3%83%A1%E3%83%B3%E3%83%88%E3%81%AE%E6%B1%BA%E3%82%81%E6%96%B9%E3%81%AE%E4%B8%80%E3%81%A4%E3%82%92%E8%AA%AC%E6%98%8E%E3%81%97%E3%81%BE%E3%81%99)
-  * https://internal.support.sw.siemens.com/ja-JP/knowledge-base/AL41540
+  * https://support.sw.siemens.com/ja-JP/knowledge-base/AL41540
 * [HWSolvers をインストールしたのにOptiStruct/Radioss/MotionSolve が見つからない](https://community.altair.com/discussion/3428/hwsolvers-%E3%82%92%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%97%E3%81%9F%E3%81%AE%E3%81%ABoptistruct-radioss-motionsolve-%E3%81%8C%E8%A6%8B%E3%81%A4%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84)
 * [Radioss で簡単に減衰を掛けて準静的な解析を行うときは /ADYREL が便利です。](https://community.altair.com/discussion/41524/radioss-%E3%81%A7%E7%B0%A1%E5%8D%98%E3%81%AB%E6%B8%9B%E8%A1%B0%E3%82%92%E6%8E%9B%E3%81%91%E3%81%A6%E6%BA%96%E9%9D%99%E7%9A%84%E3%81%AA%E8%A7%A3%E6%9E%90%E3%82%92%E8%A1%8C%E3%81%86%E3%81%A8%E3%81%8D%E3%81%AF-adyrel-%E3%81%8C%E4%BE%BF%E5%88%A9%E3%81%A7%E3%81%99)
   * https://support.sw.siemens.com/ja-JP/knowledge-base/AL41524
@@ -582,7 +582,6 @@
 * [OptiStruct: MAT1 の ST, SC, SS を使って、応力の安全率を可視化する例題](https://support.sw.siemens.com/knowledge-base/KB000191543_JA)
 * [PARTPAT/ELPAT タイプの CWELD を SWLDPRM,SHOWAUX で可視化する例題](https://support.sw.siemens.com/knowledge-base/KB000192168_JA)
 * [PFPATH で伝達経路解析を行う例題](https://support.sw.siemens.com/knowledge-base/KB000192122_JA)
-* [Radioss を HEEDS で回す例題](https://internal.support.sw.siemens.com/knowledge-base/KB000193673_JA)
 * [S2S 接触ペアを確認する方法 (CONTPRM, CONTOUT, YES)](https://support.sw.siemens.com/knowledge-base/KB000192738_JA)
 * [トポロジー最適化のオーバーハング製造制約条件の、最小設定での使い方](https://support.sw.siemens.com/knowledge-base/KB000193975_JA)
 * [モードを追跡しながら最適化する例題](https://support.sw.siemens.com/knowledge-base/KB000192732_JA)
