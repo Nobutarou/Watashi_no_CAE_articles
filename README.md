@@ -633,3 +633,4 @@
 * [慣性リリーフ解析の一番最初の概念の説明](https://support.sw.siemens.com/ja-JP/okba/KB000217955_JA)
 * [慣性リリーフ解析の基準位置の決まり方](https://support.sw.siemens.com/ja-JP/okba/KB000217960_JA)
 * [RBF による近似モデルの特徴](support.sw.siemens.com/knowledge-base/KB000222457_JA)
+* [普通の固有値解析モデルを AMSES に変更する方法](https://support.sw.siemens.com/ja-JP/knowledge-base/KB000222515_JA)
