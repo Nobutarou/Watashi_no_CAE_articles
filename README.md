@@ -36,6 +36,7 @@
 * [Altair physicsAIについてよくある 13個の質問](https://community.altair.com/discussion/40949/altair-physicsai%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B-13%E5%80%8B%E3%81%AE%E8%B3%AA%E5%95%8F)
 * [一番簡単な、断面力出力方法](https://community.altair.com/discussion/38018/%E4%B8%80%E7%95%AA%E7%B0%A1%E5%8D%98%E3%81%AA-%E6%96%AD%E9%9D%A2%E5%8A%9B%E5%87%BA%E5%8A%9B%E6%96%B9%E6%B3%95)
 * [physicsAI に CAE 以外の値を学習させる方法](https://support.sw.siemens.com/ja-JP/knowledge-base/AL39522)
+
   * https://community.altair.com/discussion/39522/
 * [/SPH/INOUT で SPH を噴射・射出させる方法](https://community.altair.com/discussion/38474/sph-inout-%E3%81%A7-sph-%E3%82%92%E5%99%B4%E5%B0%84-%E5%B0%84%E5%87%BA%E3%81%95%E3%81%9B%E3%82%8B%E6%96%B9%E6%B3%95)
 * [エンジンでのトラブルシューティング方法](https://community.altair.com/discussion/41502/%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E3%81%A7%E3%81%AE%E3%83%88%E3%83%A9%E3%83%96%E3%83%AB%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E6%96%B9%E6%B3%95)
@@ -45,7 +46,8 @@
 * [材料引張試験のくびれ発生後の応力低下データは、材料特性ではなく、形状の特性です。](https://community.altair.com/discussion/39624/)
   * https://support.sw.siemens.com/ja-JP/knowledge-base/AL39624
 * [速度依存性のない塑性材料 (要はプラスチック材料) の説明](https://community.altair.com/discussion/39052/%E9%80%9F%E5%BA%A6%E4%BE%9D%E5%AD%98%E6%80%A7%E3%81%AE%E3%81%AA%E3%81%84%E5%A1%91%E6%80%A7%E6%9D%90%E6%96%99-%E8%A6%81%E3%81%AF%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF%E6%9D%90%E6%96%99-%E3%81%AE%E8%AA%AC%E6%98%8E)
-* [材料特性の算出に、素材の大きさが影響するのか、実際にテストしてみましょう。](https://community.altair.com/discussion/38262/%E6%9D%90%E6%96%99%E7%89%B9%E6%80%A7%E3%81%AE%E7%AE%97%E5%87%BA%E3%81%AB-%E7%B4%A0%E6%9D%90%E3%81%AE%E5%A4%A7%E3%81%8D%E3%81%95%E3%81%8C%E5%BD%B1%E9%9F%BF%E3%81%99%E3%82%8B%E3%81%AE%E3%81%8B-%E5%AE%9F%E9%9A%9B%E3%81%AB%E3%83%86%E3%82%B9%E3%83%88%E3%81%97%E3%81%A6%E3%81%BF%E3%81%BE%E3%81%97%E3%82%87%E3%81%86)
+* [材料特性の算出に、素材の大きさが影響するのか、実際にテストしてみましょう。](https://support.sw.siemens.com/ja-JP/knowledge-base/AL38262)
+  * https://community.altair.com/discussion/38262/
 * [自作ユニットセルの要件、読み込み設定方法](https://community.altair.com/discussion/38528/%E8%87%AA%E4%BD%9C%E3%83%A6%E3%83%8B%E3%83%83%E3%83%88%E3%82%BB%E3%83%AB%E3%81%AE%E8%A6%81%E4%BB%B6-%E8%AA%AD%E3%81%BF%E8%BE%BC%E3%81%BF%E8%A8%AD%E5%AE%9A%E6%96%B9%E6%B3%95)
 * [Laminate の積層設定 Layup を csv ファイルから読み込む方法](https://community.altair.com/discussion/38185/laminate-%E3%81%AE%E7%A9%8D%E5%B1%A4%E8%A8%AD%E5%AE%9A-layup-%E3%82%92-csv-%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%BE%BC%E3%82%80%E6%96%B9%E6%B3%95)
 * [CAE エンジニアが語る RapidMiner](https://community.altair.com/discussion/40348/cae-%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%8C%E8%AA%9E%E3%82%8B-rapidminer)
