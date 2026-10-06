@@ -139,7 +139,8 @@
 * [樹脂の押し出し加工製品が室温まで冷めたときの熱収縮の計算方法, Inspire Extrude, OptiStruct, HyperWorks](https://community.altair.com/discussion/41036/%E6%A8%B9%E8%84%82%E3%81%AE%E6%8A%BC%E3%81%97%E5%87%BA%E3%81%97%E5%8A%A0%E5%B7%A5%E8%A3%BD%E5%93%81%E3%81%8C%E5%AE%A4%E6%B8%A9%E3%81%BE%E3%81%A7%E5%86%B7%E3%82%81%E3%81%9F%E3%81%A8%E3%81%8D%E3%81%AE%E7%86%B1%E5%8F%8E%E7%B8%AE%E3%81%AE%E8%A8%88%E7%AE%97%E6%96%B9%E6%B3%95-inspire-extrude-optistruct-hyperworks)
 * [自作セルの要件は何ですか？](https://community.altair.com/discussion/3401/%E8%87%AA%E4%BD%9C%E3%82%BB%E3%83%AB%E3%81%AE%E8%A6%81%E4%BB%B6%E3%81%AF%E4%BD%95%E3%81%A7%E3%81%99%E3%81%8B)
 * [繊維配向テンソルと繊維配向ベクトル](https://community.altair.com/discussion/3399/%E7%B9%8A%E7%B6%AD%E9%85%8D%E5%90%91%E3%83%86%E3%83%B3%E3%82%BD%E3%83%AB%E3%81%A8%E7%B9%8A%E7%B6%AD%E9%85%8D%E5%90%91%E3%83%99%E3%82%AF%E3%83%88%E3%83%AB)
-* [繊維配向テンソルとは？](https://community.altair.com/discussion/3400/%E7%B9%8A%E7%B6%AD%E9%85%8D%E5%90%91%E3%83%86%E3%83%B3%E3%82%BD%E3%83%AB%E3%81%A8%E3%81%AF)
+* [繊維配向テンソルとは？](https://support.sw.siemens.com/ja-JP/knowledge-base/KB000222633_JA)
+  * https://community.altair.com/discussion/3400/
 * [降伏応力と引張り強さ情報だけで使える材料モデルはありますか？](https://community.altair.com/discussion/3398/%E9%99%8D%E4%BC%8F%E5%BF%9C%E5%8A%9B%E3%81%A8%E5%BC%95%E5%BC%B5%E3%82%8A%E5%BC%B7%E3%81%95%E6%83%85%E5%A0%B1%E3%81%A0%E3%81%91%E3%81%A7%E4%BD%BF%E3%81%88%E3%82%8B%E6%9D%90%E6%96%99%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AF%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%81%8B)
 * [Radioss を使い始めたいときは](https://community.altair.com/discussion/33831/radioss-%E3%82%92%E4%BD%BF%E3%81%84%E5%A7%8B%E3%82%81%E3%81%9F%E3%81%84%E3%81%A8%E3%81%8D%E3%81%AF)
 * [MultiScale Designer + OptiStruct: 複数の部品に繊維配向テンソルを扱いたい](https://community.altair.com/discussion/3396/multiscale-designer-optistruct-%E8%A4%87%E6%95%B0%E3%81%AE%E9%83%A8%E5%93%81%E3%81%AB%E7%B9%8A%E7%B6%AD%E9%85%8D%E5%90%91%E3%83%86%E3%83%B3%E3%82%BD%E3%83%AB%E3%82%92%E6%89%B1%E3%81%84%E3%81%9F%E3%81%84)
