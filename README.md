@@ -268,7 +268,7 @@
   * https://support.sw.siemens.com/ja-JP/okba/KB000219439_JA
 * [/FUNCT_PYTHON をバネ要素特性に適用する例題](https://community.altair.com/discussion/65546/funct-python-%E3%82%92%E3%83%90%E3%83%8D%E8%A6%81%E7%B4%A0%E7%89%B9%E6%80%A7%E3%81%AB%E9%81%A9%E7%94%A8%E3%81%99%E3%82%8B%E4%BE%8B%E9%A1%8C)
 * [Example: Find difference between CAD and 3D scanned grids by Radioss.](https://community.altair.com/discussion/65528/example-find-difference-between-cad-and-3d-scanned-grids-by-radioss)
-* [ランダム応答解析の例題](https://community.altair.com/discussion/65516/%E3%83%A9%E3%83%B3%E3%83%80%E3%83%A0%E5%BF%9C%E7%AD%94%E8%A7%A3%E6%9E%90%E3%81%AE%E4%BE%8B%E9%A1%8C)
+* [ランダム応答解析の例題](https://community.altair.com/discussion/65516/)
 * [MAT1 + MATT1 でヤング率に温度依存性を持たせる例題](https://community.altair.com/discussion/65459/mat1-matt1-%E3%81%A7%E3%83%A4%E3%83%B3%E3%82%B0%E7%8E%87%E3%81%AB%E6%B8%A9%E5%BA%A6%E4%BE%9D%E5%AD%98%E6%80%A7%E3%82%92%E6%8C%81%E3%81%9F%E3%81%9B%E3%82%8B%E4%BE%8B%E9%A1%8C)
 * [/INTER/TYPE2 による、サーフェス対サーフェス結合条件](https://community.altair.com/discussion/65458/inter-type2-%E3%81%AB%E3%82%88%E3%82%8B-%E3%82%B5%E3%83%BC%E3%83%95%E3%82%A7%E3%82%B9%E5%AF%BE%E3%82%B5%E3%83%BC%E3%83%95%E3%82%A7%E3%82%B9%E7%B5%90%E5%90%88%E6%9D%A1%E4%BB%B6)
 * [PBEAM/PBAR はり要素で応力出力位置を指定する例題](https://community.altair.com/discussion/65413/pbeam-pbar-%E3%81%AF%E3%82%8A%E8%A6%81%E7%B4%A0%E3%81%A7%E5%BF%9C%E5%8A%9B%E5%87%BA%E5%8A%9B%E4%BD%8D%E7%BD%AE%E3%82%92%E6%8C%87%E5%AE%9A%E3%81%99%E3%82%8B%E4%BE%8B%E9%A1%8C)
@@ -640,3 +640,4 @@
 * [慣性リリーフ解析の基準位置の決まり方](https://support.sw.siemens.com/ja-JP/okba/KB000217960_JA)
 * [RBF による近似モデルの特徴](support.sw.siemens.com/knowledge-base/KB000222457_JA)
 * [普通の固有値解析モデルを AMSES に変更する方法](https://support.sw.siemens.com/ja-JP/knowledge-base/KB000222515_JA)
+* [FRF 結果に PSD 入力を与える方法のランダム応答手法での入力 PSD カーブに関する注意事項](https://support.sw.siemens.com/ja-JP/knowledge-base/KB000222865_JA)
