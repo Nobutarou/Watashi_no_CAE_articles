@@ -222,7 +222,8 @@
 * [アワーグラスモードを見てみよう、そして回避しよう](https://community.altair.com/discussion/39699/%E3%82%A2%E3%83%AF%E3%83%BC%E3%82%B0%E3%83%A9%E3%82%B9%E3%83%A2%E3%83%BC%E3%83%89%E3%82%92%E8%A6%8B%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86-%E3%81%9D%E3%81%97%E3%81%A6%E5%9B%9E%E9%81%BF%E3%81%97%E3%82%88%E3%81%86)
   * https://support.sw.siemens.com/ja-JP/knowledge-base/AL39699
 * [Radioss に MultiScale Designer を組み合わせることで、引張りと圧縮で弾性係数を変化させる方法をお伝えします](https://community.altair.com/discussion/38809/radioss-%E3%81%AB-multiscale-designer-%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7-%E5%BC%95%E5%BC%B5%E3%82%8A%E3%81%A8%E5%9C%A7%E7%B8%AE%E3%81%A7%E5%BC%BE%E6%80%A7%E4%BF%82%E6%95%B0%E3%82%92%E5%A4%89%E5%8C%96%E3%81%95%E3%81%9B%E3%82%8B%E6%96%B9%E6%B3%95%E3%82%92%E3%81%8A%E4%BC%9D%E3%81%88%E3%81%97%E3%81%BE%E3%81%99)
-* [繊維強化樹脂材料 /MAT/LAW25 CRASURV 材料のパラメータ設定方法をお伝えします。(Parameter explanation of /MAT/LAW25, CRASURV for a fiber reinforced plastic material)](https://community.altair.com/discussion/41462/%E7%B9%8A%E7%B6%AD%E5%BC%B7%E5%8C%96%E6%A8%B9%E8%84%82%E6%9D%90%E6%96%99-mat-law25-crasurv-%E6%9D%90%E6%96%99%E3%81%AE%E3%83%91%E3%83%A9%E3%83%A1%E3%83%BC%E3%82%BF%E8%A8%AD%E5%AE%9A%E6%96%B9%E6%B3%95%E3%82%92%E3%81%8A%E4%BC%9D%E3%81%88%E3%81%97%E3%81%BE%E3%81%99-parameter-explanation-of-mat-law25-crasurv-for-a-fiber-reinforced-plastic-material)
+* [繊維強化樹脂材料 /MAT/LAW25 CRASURV 材料のパラメータ設定方法をお伝えします。(Parameter explanation of /MAT/LAW25, CRASURV for a fiber reinforced plastic material)](https://community.altair.com/discussion/41462/)
+  * https://support.sw.siemens.com/ja-JP/knowledge-base/AL41462
 * [/PROP/SOLID の推奨設定をお伝えします](https://support.sw.siemens.com/ja-JP/knowledge-base/AL41420)
 * [6自由度バネ要素特性 /PROP/TYPE13 の質量、慣性モーメントの決め方の一つを説明します。](https://community.altair.com/discussion/41540/6%E8%87%AA%E7%94%B1%E5%BA%A6%E3%83%90%E3%83%8D%E8%A6%81%E7%B4%A0%E7%89%B9%E6%80%A7-prop-type13-%E3%81%AE%E8%B3%AA%E9%87%8F-%E6%85%A3%E6%80%A7%E3%83%A2%E3%83%BC%E3%83%A1%E3%83%B3%E3%83%88%E3%81%AE%E6%B1%BA%E3%82%81%E6%96%B9%E3%81%AE%E4%B8%80%E3%81%A4%E3%82%92%E8%AA%AC%E6%98%8E%E3%81%97%E3%81%BE%E3%81%99)
   * https://support.sw.siemens.com/ja-JP/knowledge-base/AL41540
@@ -316,7 +317,8 @@
 * [/MAT/LAW12 と /FAIL/HASHIN で作る破断ありの簡単な複合材料](https://community.altair.com/discussion/37525/mat-law12-%E3%81%A8-fail-hashin-%E3%81%A7%E4%BD%9C%E3%82%8B%E7%A0%B4%E6%96%AD%E3%81%82%E3%82%8A%E3%81%AE%E7%B0%A1%E5%8D%98%E3%81%AA%E8%A4%87%E5%90%88%E6%9D%90%E6%96%99)
   * https://support.sw.siemens.com/ja-JP/knowledge-base/AL37525
 * [OptiStruct: 非線形解析をリスタートするシンプルな例題](https://community.altair.com/discussion/61436/optistruct-%E9%9D%9E%E7%B7%9A%E5%BD%A2%E8%A7%A3%E6%9E%90%E3%82%92%E3%83%AA%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%81%99%E3%82%8B%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA%E4%BE%8B%E9%A1%8C)
-* [/MAT/LAW25 CRASURV 材料を順を追って理解していきます](https://community.altair.com/discussion/60660/mat-law25-crasurv-%E6%9D%90%E6%96%99%E3%82%92%E9%A0%86%E3%82%92%E8%BF%BD%E3%81%A3%E3%81%A6%E7%90%86%E8%A7%A3%E3%81%97%E3%81%A6%E3%81%84%E3%81%8D%E3%81%BE%E3%81%99)
+* [/MAT/LAW25 CRASURV 材料を順を追って理解していきます](https://community.altair.com/discussion/60660/)
+  * https://support.sw.siemens.com/ja-JP/knowledge-base/AL60660
 * [最適化をリスタートする例題](https://community.altair.com/discussion/61412/%E6%9C%80%E9%81%A9%E5%8C%96%E3%82%92%E3%83%AA%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%81%99%E3%82%8B%E4%BE%8B%E9%A1%8C)
 * [並列化オプション -np と -nt の違いを説明します。](https://community.altair.com/discussion/60776/%E4%B8%A6%E5%88%97%E5%8C%96%E3%82%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3-np-%E3%81%A8-nt-%E3%81%AE%E9%81%95%E3%81%84%E3%82%92%E8%AA%AC%E6%98%8E%E3%81%97%E3%81%BE%E3%81%99)
 * [複数の .fem ファイルを Compute Console で連続実行する例題](https://community.altair.com/discussion/61328/%E8%A4%87%E6%95%B0%E3%81%AE-fem-%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%92-compute-console-%E3%81%A7%E9%80%A3%E7%B6%9A%E5%AE%9F%E8%A1%8C%E3%81%99%E3%82%8B%E4%BE%8B%E9%A1%8C)
