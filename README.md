@@ -643,3 +643,4 @@
 * [RBF による近似モデルの特徴](support.sw.siemens.com/knowledge-base/KB000222457_JA)
 * [普通の固有値解析モデルを AMSES に変更する方法](https://support.sw.siemens.com/ja-JP/knowledge-base/KB000222515_JA)
 * [FRF 結果に PSD 入力を与える方法のランダム応答手法での入力 PSD カーブに関する注意事項](https://support.sw.siemens.com/ja-JP/knowledge-base/KB000222865_JA)
+* [Is it possible to output plastic strain for /MAT/LAW25](https://support.sw.siemens.com/ja-JP/okba/KB000223117_EN_US)
