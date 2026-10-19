@@ -283,7 +283,8 @@
 * [Ifric=4 で静摩擦、動摩擦を表現する例題](https://community.altair.com/discussion/65325/ifric-4-%E3%81%A7%E9%9D%99%E6%91%A9%E6%93%A6-%E5%8B%95%E6%91%A9%E6%93%A6%E3%82%92%E8%A1%A8%E7%8F%BE%E3%81%99%E3%82%8B%E4%BE%8B%E9%A1%8C)
 * [シェルによるシートベルトモデル化の材料 /MAT/LAW119 の例題](https://community.altair.com/discussion/65286/%E3%82%B7%E3%82%A7%E3%83%AB%E3%81%AB%E3%82%88%E3%82%8B%E3%82%B7%E3%83%BC%E3%83%88%E3%83%99%E3%83%AB%E3%83%88%E3%83%A2%E3%83%87%E3%83%AB%E5%8C%96%E3%81%AE%E6%9D%90%E6%96%99-mat-law119-%E3%81%AE%E4%BE%8B%E9%A1%8C)
 * [TIE カードによる結合力の合力を出力する例題](https://community.altair.com/discussion/65272/tie-%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AB%E3%82%88%E3%82%8B%E7%B5%90%E5%90%88%E5%8A%9B%E3%81%AE%E5%90%88%E5%8A%9B%E3%82%92%E5%87%BA%E5%8A%9B%E3%81%99%E3%82%8B%E4%BE%8B%E9%A1%8C)
-* [MultiScale Designer 2026: 材料データベースをインポートしようとして、エラーになる場合の回避策](https://community.altair.com/discussion/65270/multiscale-designer-2026-%E6%9D%90%E6%96%99%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9%E3%82%92%E3%82%A4%E3%83%B3%E3%83%9D%E3%83%BC%E3%83%88%E3%81%97%E3%82%88%E3%81%86%E3%81%A8%E3%81%97%E3%81%A6-%E3%82%A8%E3%83%A9%E3%83%BC%E3%81%AB%E3%81%AA%E3%82%8B%E5%A0%B4%E5%90%88%E3%81%AE%E5%9B%9E%E9%81%BF%E7%AD%96)
+* [MultiScale Designer 2026: 材料データベースをインポートしようとして、エラーになる場合の回避策](https://community.altair.com/discussion/65270/)
+  * https://support.sw.siemens.com/ja-JP/knowledge-base/AL65270
 * [/MAT/PLAS_DEF の例題](https://community.altair.com/discussion/65232/mat-plas-def-%E3%81%AE%E4%BE%8B%E9%A1%8C)
 * [新しい DOE に、既存の DOE の結果を追加する例題](https://community.altair.com/discussion/65133/%E6%96%B0%E3%81%97%E3%81%84-doe-%E3%81%AB-%E6%97%A2%E5%AD%98%E3%81%AE-doe-%E3%81%AE%E7%B5%90%E6%9E%9C%E3%82%92%E8%BF%BD%E5%8A%A0%E3%81%99%E3%82%8B%E4%BE%8B%E9%A1%8C)
 * [エンジンジョブを GUI 以外で止める方法](https://community.altair.com/discussion/41196/%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%96%E3%82%92-gui-%E4%BB%A5%E5%A4%96%E3%81%A7%E6%AD%A2%E3%82%81%E3%82%8B%E6%96%B9%E6%B3%95)
@@ -311,7 +312,8 @@
 * [/FRICTION カードを使って、部品間の摩擦係数を個別に定義する例題](https://community.altair.com/discussion/61765/friction-%E3%82%AB%E3%83%BC%E3%83%89%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6-%E9%83%A8%E5%93%81%E9%96%93%E3%81%AE%E6%91%A9%E6%93%A6%E4%BF%82%E6%95%B0%E3%82%92%E5%80%8B%E5%88%A5%E3%81%AB%E5%AE%9A%E7%BE%A9%E3%81%99%E3%82%8B%E4%BE%8B%E9%A1%8C)
 * [.sta ファイルを使って、応力、塑性ひずみ、シェル板厚変化、変形を引き継ぐ方法](https://community.altair.com/discussion/41482/sta-%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6-%E5%BF%9C%E5%8A%9B-%E5%A1%91%E6%80%A7%E3%81%B2%E3%81%9A%E3%81%BF-%E3%82%B7%E3%82%A7%E3%83%AB%E6%9D%BF%E5%8E%9A%E5%A4%89%E5%8C%96-%E5%A4%89%E5%BD%A2%E3%82%92%E5%BC%95%E3%81%8D%E7%B6%99%E3%81%90%E6%96%B9%E6%B3%95)
 * [2024 の mic ファイルを 2024.1, 2025 に読み込むとどうなるのかを検証する例題](https://community.altair.com/discussion/61735/2024-%E3%81%AE-mic-%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%92-2024-1-2025-%E3%81%AB%E8%AA%AD%E3%81%BF%E8%BE%BC%E3%82%80%E3%81%A8%E3%81%A9%E3%81%86%E3%81%AA%E3%82%8B%E3%81%AE%E3%81%8B%E3%82%92%E6%A4%9C%E8%A8%BC%E3%81%99%E3%82%8B%E4%BE%8B%E9%A1%8C)
-* [レイリー減衰の係数の決め方](https://community.altair.com/discussion/41633/%E3%83%AC%E3%82%A4%E3%83%AA%E3%83%BC%E6%B8%9B%E8%A1%B0%E3%81%AE%E4%BF%82%E6%95%B0%E3%81%AE%E6%B1%BA%E3%82%81%E6%96%B9)
+* [レイリー減衰の係数の決め方](https://community.altair.com/discussion/41633/)
+  * https://support.sw.siemens.com/ja-JP/knowledge-base/AL41633
 * [結合条件は、まよったら、両側から 2個結合条件を付けておけば OK です。](https://community.altair.com/discussion/41495/%E7%B5%90%E5%90%88%E6%9D%A1%E4%BB%B6%E3%81%AF-%E3%81%BE%E3%82%88%E3%81%A3%E3%81%9F%E3%82%89-%E4%B8%A1%E5%81%B4%E3%81%8B%E3%82%89-2%E5%80%8B%E7%B5%90%E5%90%88%E6%9D%A1%E4%BB%B6%E3%82%92%E4%BB%98%E3%81%91%E3%81%A6%E3%81%8A%E3%81%91%E3%81%B0-ok-%E3%81%A7%E3%81%99)
 * [OptiStruct: MATHE: フォーム材の例題](https://community.altair.com/discussion/61482/optistruct-mathe-%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E6%9D%90%E3%81%AE%E4%BE%8B%E9%A1%8C)
 * [/MAT/LAW12 と /FAIL/HASHIN で作る破断ありの簡単な複合材料](https://community.altair.com/discussion/37525/mat-law12-%E3%81%A8-fail-hashin-%E3%81%A7%E4%BD%9C%E3%82%8B%E7%A0%B4%E6%96%AD%E3%81%82%E3%82%8A%E3%81%AE%E7%B0%A1%E5%8D%98%E3%81%AA%E8%A4%87%E5%90%88%E6%9D%90%E6%96%99)
@@ -352,7 +354,8 @@
 * [積層厚肉シェル要素で、積層材の破壊指数を出力する方法](https://community.altair.com/discussion/38243/%E7%A9%8D%E5%B1%A4%E5%8E%9A%E8%82%89%E3%82%B7%E3%82%A7%E3%83%AB%E8%A6%81%E7%B4%A0%E3%81%A7-%E7%A9%8D%E5%B1%A4%E6%9D%90%E3%81%AE%E7%A0%B4%E5%A3%8A%E6%8C%87%E6%95%B0%E3%82%92%E5%87%BA%E5%8A%9B%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95)
 * [塑性ひずみと、ひずみは、１対１の関係にありません](https://community.altair.com/discussion/38704/%E5%A1%91%E6%80%A7%E3%81%B2%E3%81%9A%E3%81%BF%E3%81%A8-%E3%81%B2%E3%81%9A%E3%81%BF%E3%81%AF-%EF%BC%91%E5%AF%BE%EF%BC%91%E3%81%AE%E9%96%A2%E4%BF%82%E3%81%AB%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93)
 * [/H3D/NODA/GPS と /H3D/SOLID/TENS/STRESS/CORNER_DATA の違い、メリット・デメリット](https://community.altair.com/discussion/38170/h3d-noda-gps-%E3%81%A8-h3d-solid-tens-stress-corner-data-%E3%81%AE%E9%81%95%E3%81%84-%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88-%E3%83%87%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88)
-* [/TH/PART でパートの全体的な速度履歴をプロットできます](https://community.altair.com/discussion/37505/th-part-%E3%81%A7%E3%83%91%E3%83%BC%E3%83%88%E3%81%AE%E5%85%A8%E4%BD%93%E7%9A%84%E3%81%AA%E9%80%9F%E5%BA%A6%E5%B1%A5%E6%AD%B4%E3%82%92%E3%83%97%E3%83%AD%E3%83%83%E3%83%88%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99)
+* [/TH/PART でパートの全体的な速度履歴をプロットできます](https://community.altair.com/discussion/37505/)
+  * https://support.sw.siemens.com/ja-JP/knowledge-base/AL37505
 * [はじめての電磁機構制御シミュレーション ver 2023.0.0](https://community.altair.com/discussion/41047/%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6%E3%81%AE%E9%9B%BB%E7%A3%81%E6%A9%9F%E6%A7%8B%E5%88%B6%E5%BE%A1%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3-ver-2023-0-0)
 * [機構解析から始める疲労解析](https://community.altair.com/discussion/41055/%E6%A9%9F%E6%A7%8B%E8%A7%A3%E6%9E%90%E3%81%8B%E3%82%89%E5%A7%8B%E3%82%81%E3%82%8B%E7%96%B2%E5%8A%B4%E8%A7%A3%E6%9E%90)
 * [1要素の軸対称モデルの例題](https://community.altair.com/discussion/63879/1%E8%A6%81%E7%B4%A0%E3%81%AE%E8%BB%B8%E5%AF%BE%E7%A7%B0%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BE%8B%E9%A1%8C)
@@ -644,3 +647,4 @@
 * [普通の固有値解析モデルを AMSES に変更する方法](https://support.sw.siemens.com/ja-JP/knowledge-base/KB000222515_JA)
 * [FRF 結果に PSD 入力を与える方法のランダム応答手法での入力 PSD カーブに関する注意事項](https://support.sw.siemens.com/ja-JP/knowledge-base/KB000222865_JA)
 * [Is it possible to output plastic strain for /MAT/LAW25](https://support.sw.siemens.com/ja-JP/okba/KB000223117_EN_US)
+* [MultiScale Designer でモデルの問題か、環境の問題かの切り分けを行う方法](support.sw.siemens.com/knowledge-base/KB000223398_JA)
