@@ -335,7 +335,8 @@
 * [ソルバーの結果をエクセルに入力し、そのエクセルで計算した値を評価する方法](https://community.altair.com/discussion/41030/%E3%82%BD%E3%83%AB%E3%83%90%E3%83%BC%E3%81%AE%E7%B5%90%E6%9E%9C%E3%82%92%E3%82%A8%E3%82%AF%E3%82%BB%E3%83%AB%E3%81%AB%E5%85%A5%E5%8A%9B%E3%81%97-%E3%81%9D%E3%81%AE%E3%82%A8%E3%82%AF%E3%82%BB%E3%83%AB%E3%81%A7%E8%A8%88%E7%AE%97%E3%81%97%E3%81%9F%E5%80%A4%E3%82%92%E8%A9%95%E4%BE%A1%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95)
 * [HyperMesh の基本的な良さを動画中心に説明します。](https://community.altair.com/discussion/40236/hypermesh-%E3%81%AE%E5%9F%BA%E6%9C%AC%E7%9A%84%E3%81%AA%E8%89%AF%E3%81%95%E3%82%92%E5%8B%95%E7%94%BB%E4%B8%AD%E5%BF%83%E3%81%AB%E8%AA%AC%E6%98%8E%E3%81%97%E3%81%BE%E3%81%99)
 * [OptiStruct 最適化の紹介](https://community.altair.com/discussion/40307/optistruct-%E6%9C%80%E9%81%A9%E5%8C%96%E3%81%AE%E7%B4%B9%E4%BB%8B)
-* [Radioss 入力カードのデフォルト値は？](https://community.altair.com/discussion/37466/radioss-%E5%85%A5%E5%8A%9B%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AE%E3%83%87%E3%83%95%E3%82%A9%E3%83%AB%E3%83%88%E5%80%A4%E3%81%AF)
+* [Radioss 入力カードのデフォルト値は？](https://community.altair.com/discussion/37466/)
+  * https://support.sw.siemens.com/ja-JP/product/237947268/knowledge-base/AL37466
 * [表形式弾塑性材料カード作成支援ツール Material Modeler のインストール方法、使い方を説明します。](https://community.altair.com/discussion/39539/%E8%A1%A8%E5%BD%A2%E5%BC%8F%E5%BC%BE%E5%A1%91%E6%80%A7%E6%9D%90%E6%96%99%E3%82%AB%E3%83%BC%E3%83%89%E4%BD%9C%E6%88%90%E6%94%AF%E6%8F%B4%E3%83%84%E3%83%BC%E3%83%AB-material-modeler-%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E6%96%B9%E6%B3%95-%E4%BD%BF%E3%81%84%E6%96%B9%E3%82%92%E8%AA%AC%E6%98%8E%E3%81%97%E3%81%BE%E3%81%99)
   * https://support.sw.siemens.com/ja-JP/knowledge-base/AL39539
 * [ID マネージャ: インクルードファイル単位の ID 管理ツールの簡単な使い方](https://community.altair.com/discussion/38270/id-%E3%83%9E%E3%83%8D%E3%83%BC%E3%82%B8%E3%83%A3-%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AB%E3%83%BC%E3%83%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E5%8D%98%E4%BD%8D%E3%81%AE-id-%E7%AE%A1%E7%90%86%E3%83%84%E3%83%BC%E3%83%AB%E3%81%AE%E7%B0%A1%E5%8D%98%E3%81%AA%E4%BD%BF%E3%81%84%E6%96%B9)
@@ -648,3 +649,4 @@
 * [FRF 結果に PSD 入力を与える方法のランダム応答手法での入力 PSD カーブに関する注意事項](https://support.sw.siemens.com/ja-JP/knowledge-base/KB000222865_JA)
 * [Is it possible to output plastic strain for /MAT/LAW25](https://support.sw.siemens.com/ja-JP/okba/KB000223117_EN_US)
 * [MultiScale Designer でモデルの問題か、環境の問題かの切り分けを行う方法](support.sw.siemens.com/knowledge-base/KB000223398_JA)
+* [/INTER/TYPE25 で Ifiltr=1, α=0 とすると摩擦力はどうなりますか？](https://support.sw.siemens.com/ja-JP/knowledge-base/KB000223510_JA)
