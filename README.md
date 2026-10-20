@@ -512,7 +512,8 @@
 * [Radioss: /MAT/LAW62 のパラメータの特徴を 1要素モデルでつかんでみよう。](https://community.altair.com/discussion/60397/radioss-mat-law62-%E3%81%AE%E3%83%91%E3%83%A9%E3%83%A1%E3%83%BC%E3%82%BF%E3%81%AE%E7%89%B9%E5%BE%B4%E3%82%92-1%E8%A6%81%E7%B4%A0%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E3%81%A4%E3%81%8B%E3%82%93%E3%81%A7%E3%81%BF%E3%82%88%E3%81%86)
 * [Radioss: *BOUNDARY_PRESCRIBED_MOTION が LS-DYNA リーダーでどのように変換されるのか説明します (DOF=4,8) 限定](https://community.altair.com/discussion/60375/radioss-boundary-prescribed-motion-%E3%81%8C-ls-dyna-%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%81%A7%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E5%A4%89%E6%8F%9B%E3%81%95%E3%82%8C%E3%82%8B%E3%81%AE%E3%81%8B%E8%AA%AC%E6%98%8E%E3%81%97%E3%81%BE%E3%81%99-dof-4-8-%E9%99%90%E5%AE%9A)
 * [Radioss: Engine trouble shooting](https://community.altair.com/discussion/60339/radioss-engine-trouble-shooting)
-* [Radioss で 「 ELEMENT(S) DEFINED IN NON EXISTING PART ID 」が出る理由と対処方](https://community.altair.com/discussion/36990/radioss-%E3%81%A7-element-s-defined-in-non-existing-part-id-%E3%81%8C%E5%87%BA%E3%82%8B%E7%90%86%E7%94%B1%E3%81%A8%E5%AF%BE%E5%87%A6%E6%96%B9)
+* [Radioss で 「 ELEMENT(S) DEFINED IN NON EXISTING PART ID 」が出る理由と対処方](https://community.altair.com/discussion/36990/)
+  * https://support.sw.siemens.com/ja-JP/knowledge-base/AL36990
 * [弾塑性材料のくびれの発生するタイミングは？くびれない弾塑性材料を作れる？](https://community.altair.com/discussion/37221/%E5%BC%BE%E5%A1%91%E6%80%A7%E6%9D%90%E6%96%99%E3%81%AE%E3%81%8F%E3%81%B3%E3%82%8C%E3%81%AE%E7%99%BA%E7%94%9F%E3%81%99%E3%82%8B%E3%82%BF%E3%82%A4%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%AF-%E3%81%8F%E3%81%B3%E3%82%8C%E3%81%AA%E3%81%84%E5%BC%BE%E5%A1%91%E6%80%A7%E6%9D%90%E6%96%99%E3%82%92%E4%BD%9C%E3%82%8C%E3%82%8B)
 * [Radioss の /MAT/LAW92 ゴム材料を 1要素モデルで説明します。](https://community.altair.com/discussion/37030/radioss-%E3%81%AE-mat-law92-%E3%82%B4%E3%83%A0%E6%9D%90%E6%96%99%E3%82%92-1%E8%A6%81%E7%B4%A0%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AC%E6%98%8E%E3%81%97%E3%81%BE%E3%81%99)
 * [Radioss: 検証モデルで時間ステップが大きすぎるときは /DTIX で上限を決めることができます。](https://community.altair.com/discussion/37116/radioss-%E6%A4%9C%E8%A8%BC%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E6%99%82%E9%96%93%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%81%8C%E5%A4%A7%E3%81%8D%E3%81%99%E3%81%8E%E3%82%8B%E3%81%A8%E3%81%8D%E3%81%AF-dtix-%E3%81%A7%E4%B8%8A%E9%99%90%E3%82%92%E6%B1%BA%E3%82%81%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99)
@@ -650,3 +651,4 @@
 * [Is it possible to output plastic strain for /MAT/LAW25](https://support.sw.siemens.com/ja-JP/okba/KB000223117_EN_US)
 * [MultiScale Designer でモデルの問題か、環境の問題かの切り分けを行う方法](support.sw.siemens.com/knowledge-base/KB000223398_JA)
 * [/INTER/TYPE25 で Ifiltr=1, α=0 とすると摩擦力はどうなりますか？](https://support.sw.siemens.com/ja-JP/knowledge-base/KB000223510_JA)
+* [Radioss で PROPERTY ID=0 DOES NOT EXIST, MATERIAL ID=0 DOES NOT EXIST と出る場合の対処法](https://support.sw.siemens.com/ja-JP/knowledge-base/KB000223527_JA)
