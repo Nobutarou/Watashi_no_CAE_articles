@@ -34,7 +34,8 @@
 * [並び替え問題を、設計変数制約を使って、簡単に行う方法](https://community.altair.com/discussion/39045/%E4%B8%A6%E3%81%B3%E6%9B%BF%E3%81%88%E5%95%8F%E9%A1%8C%E3%82%92-%E8%A8%AD%E8%A8%88%E5%A4%89%E6%95%B0%E5%88%B6%E7%B4%84%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6-%E7%B0%A1%E5%8D%98%E3%81%AB%E8%A1%8C%E3%81%86%E6%96%B9%E6%B3%95)
 * [ソルバーのカードイメージのままカードを編集するには (v2023 が圧倒的におすすめ)](https://community.altair.com/discussion/38391/%E3%82%BD%E3%83%AB%E3%83%90%E3%83%BC%E3%81%AE%E3%82%AB%E3%83%BC%E3%83%89%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%81%AE%E3%81%BE%E3%81%BE%E3%82%AB%E3%83%BC%E3%83%89%E3%82%92%E7%B7%A8%E9%9B%86%E3%81%99%E3%82%8B%E3%81%AB%E3%81%AF-v2023-%E3%81%8C%E5%9C%A7%E5%80%92%E7%9A%84%E3%81%AB%E3%81%8A%E3%81%99%E3%81%99%E3%82%81)
 * [Altair physicsAIについてよくある 13個の質問](https://community.altair.com/discussion/40949/altair-physicsai%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B-13%E5%80%8B%E3%81%AE%E8%B3%AA%E5%95%8F)
-* [一番簡単な、断面力出力方法](https://community.altair.com/discussion/38018/%E4%B8%80%E7%95%AA%E7%B0%A1%E5%8D%98%E3%81%AA-%E6%96%AD%E9%9D%A2%E5%8A%9B%E5%87%BA%E5%8A%9B%E6%96%B9%E6%B3%95)
+* [一番簡単な、断面力出力方法](https://community.altair.com/discussion/38018/)
+  * https://support.sw.siemens.com/ja-JP/product/237947268/knowledge-base/AL38018
 * [physicsAI に CAE 以外の値を学習させる方法](https://support.sw.siemens.com/ja-JP/knowledge-base/AL39522)
 
   * https://community.altair.com/discussion/39522/
