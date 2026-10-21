@@ -655,3 +655,4 @@
 * [/INTER/TYPE25 で Ifiltr=1, α=0 とすると摩擦力はどうなりますか？](https://support.sw.siemens.com/ja-JP/knowledge-base/KB000223510_JA)
 * [Radioss で PROPERTY ID=0 DOES NOT EXIST, MATERIAL ID=0 DOES NOT EXIST と出る場合の対処法](https://support.sw.siemens.com/ja-JP/knowledge-base/KB000223527_JA)
 * [/FAIL/ORTHSTRAIN で /MAT/LAW25 を削除する例題](https://support.sw.siemens.com/ja-JP/okba/KB000223596_JA)
+* [Radioss の積層シェルモデルで REFERENCE DIRECTION IS ALMOST NORMAL TO SHELL エラーの出る理由と対処方法](https://support.sw.siemens.com/knowledge-base/KB000223608_JA)
