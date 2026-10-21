@@ -654,3 +654,4 @@
 * [MultiScale Designer でモデルの問題か、環境の問題かの切り分けを行う方法](support.sw.siemens.com/knowledge-base/KB000223398_JA)
 * [/INTER/TYPE25 で Ifiltr=1, α=0 とすると摩擦力はどうなりますか？](https://support.sw.siemens.com/ja-JP/knowledge-base/KB000223510_JA)
 * [Radioss で PROPERTY ID=0 DOES NOT EXIST, MATERIAL ID=0 DOES NOT EXIST と出る場合の対処法](https://support.sw.siemens.com/ja-JP/knowledge-base/KB000223527_JA)
+* [/FAIL/ORTHSTRAIN で /MAT/LAW25 を削除する例題](https://support.sw.siemens.com/ja-JP/okba/KB000223596_JA)
