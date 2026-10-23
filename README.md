@@ -53,7 +53,8 @@
 * [Laminate の積層設定 Layup を csv ファイルから読み込む方法](https://community.altair.com/discussion/38185/laminate-%E3%81%AE%E7%A9%8D%E5%B1%A4%E8%A8%AD%E5%AE%9A-layup-%E3%82%92-csv-%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%BE%BC%E3%82%80%E6%96%B9%E6%B3%95)
 * [CAE エンジニアが語る RapidMiner](https://community.altair.com/discussion/40348/cae-%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%8C%E8%AA%9E%E3%82%8B-rapidminer)
 * [射出成型のそりを、繊維配向を考慮して計算する方法です。使用ソフト Inspire Mold, MultiScale Designer, OptiStruct, HyperWorks](https://community.altair.com/discussion/39341/%E5%B0%84%E5%87%BA%E6%88%90%E5%9E%8B%E3%81%AE%E3%81%9D%E3%82%8A%E3%82%92-%E7%B9%8A%E7%B6%AD%E9%85%8D%E5%90%91%E3%82%92%E8%80%83%E6%85%AE%E3%81%97%E3%81%A6%E8%A8%88%E7%AE%97%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95%E3%81%A7%E3%81%99-%E4%BD%BF%E7%94%A8%E3%82%BD%E3%83%95%E3%83%88-inspire-mold-multiscale-designer-optistruct-hyperworks)
-* [接着剤用材料 MCOHE の説明と設定サンプルモデル](https://community.altair.com/discussion/41034/%E6%8E%A5%E7%9D%80%E5%89%A4%E7%94%A8%E6%9D%90%E6%96%99-mcohe-%E3%81%AE%E8%AA%AC%E6%98%8E%E3%81%A8%E8%A8%AD%E5%AE%9A%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB%E3%83%A2%E3%83%87%E3%83%AB)
+* [接着剤用材料 MCOHE の説明と設定サンプルモデル](https://community.altair.com/discussion/41034/)
+  * https://support.sw.siemens.com/ja-JP/knowledge-base/AL41034
 * [Inspire と SimSolid のコラボで設計探索が大変身近になりました](https://community.altair.com/discussion/40345/inspire-%E3%81%A8-simsolid-%E3%81%AE%E3%82%B3%E3%83%A9%E3%83%9C%E3%81%A7%E8%A8%AD%E8%A8%88%E6%8E%A2%E7%B4%A2%E3%81%8C%E5%A4%A7%E5%A4%89%E8%BA%AB%E8%BF%91%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F)
 * [Inspire 設計探索の演習書](https://community.altair.com/discussion/41041/inspire-%E8%A8%AD%E8%A8%88%E6%8E%A2%E7%B4%A2%E3%81%AE%E6%BC%94%E7%BF%92%E6%9B%B8)
 * [航空機用 FEM に特化した HyperMesh 演習書あります](https://community.altair.com/discussion/40258/%E8%88%AA%E7%A9%BA%E6%A9%9F%E7%94%A8-fem-%E3%81%AB%E7%89%B9%E5%8C%96%E3%81%97%E3%81%9F-hypermesh-%E6%BC%94%E7%BF%92%E6%9B%B8%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99)
@@ -519,7 +520,8 @@
 * [弾塑性材料のくびれの発生するタイミングは？くびれない弾塑性材料を作れる？](https://community.altair.com/discussion/37221/%E5%BC%BE%E5%A1%91%E6%80%A7%E6%9D%90%E6%96%99%E3%81%AE%E3%81%8F%E3%81%B3%E3%82%8C%E3%81%AE%E7%99%BA%E7%94%9F%E3%81%99%E3%82%8B%E3%82%BF%E3%82%A4%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%AF-%E3%81%8F%E3%81%B3%E3%82%8C%E3%81%AA%E3%81%84%E5%BC%BE%E5%A1%91%E6%80%A7%E6%9D%90%E6%96%99%E3%82%92%E4%BD%9C%E3%82%8C%E3%82%8B)
 * [Radioss の /MAT/LAW92 ゴム材料を 1要素モデルで説明します。](https://community.altair.com/discussion/37030/radioss-%E3%81%AE-mat-law92-%E3%82%B4%E3%83%A0%E6%9D%90%E6%96%99%E3%82%92-1%E8%A6%81%E7%B4%A0%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AC%E6%98%8E%E3%81%97%E3%81%BE%E3%81%99)
 * [Radioss: 検証モデルで時間ステップが大きすぎるときは /DTIX で上限を決めることができます。](https://community.altair.com/discussion/37116/radioss-%E6%A4%9C%E8%A8%BC%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E6%99%82%E9%96%93%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%81%8C%E5%A4%A7%E3%81%8D%E3%81%99%E3%81%8E%E3%82%8B%E3%81%A8%E3%81%8D%E3%81%AF-dtix-%E3%81%A7%E4%B8%8A%E9%99%90%E3%82%92%E6%B1%BA%E3%82%81%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99)
-* [Radioss フォーム材料 /MAT/LAW70 の一番簡単な設定方法](https://community.altair.com/discussion/37009/radioss-%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E6%9D%90%E6%96%99-mat-law70-%E3%81%AE%E4%B8%80%E7%95%AA%E7%B0%A1%E5%8D%98%E3%81%AA%E8%A8%AD%E5%AE%9A%E6%96%B9%E6%B3%95)
+* [Radioss フォーム材料 /MAT/LAW70 の一番簡単な設定方法](https://community.altair.com/discussion/37009/)
+  * https://support.sw.siemens.com/ja-JP/knowledge-base/AL37009
 * [Radioss の FVM エアバッグ /FVMBAG2 を利用した一番簡単なエアバッグ設定方法](https://support.sw.siemens.com/ja-JP/knowledge-base/AL37058)
   * https://community.altair.com/discussion/37058/
 * [Radioss の力による荷重条件 /CLOAD の簡単な例](https://community.altair.com/discussion/37373/radioss-%E3%81%AE%E5%8A%9B%E3%81%AB%E3%82%88%E3%82%8B%E8%8D%B7%E9%87%8D%E6%9D%A1%E4%BB%B6-cload-%E3%81%AE%E7%B0%A1%E5%8D%98%E3%81%AA%E4%BE%8B)
