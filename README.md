@@ -49,7 +49,8 @@
 * [速度依存性のない塑性材料 (要はプラスチック材料) の説明](https://community.altair.com/discussion/39052/%E9%80%9F%E5%BA%A6%E4%BE%9D%E5%AD%98%E6%80%A7%E3%81%AE%E3%81%AA%E3%81%84%E5%A1%91%E6%80%A7%E6%9D%90%E6%96%99-%E8%A6%81%E3%81%AF%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF%E6%9D%90%E6%96%99-%E3%81%AE%E8%AA%AC%E6%98%8E)
 * [材料特性の算出に、素材の大きさが影響するのか、実際にテストしてみましょう。](https://support.sw.siemens.com/ja-JP/knowledge-base/AL38262)
   * https://community.altair.com/discussion/38262/
-* [自作ユニットセルの要件、読み込み設定方法](https://community.altair.com/discussion/38528/%E8%87%AA%E4%BD%9C%E3%83%A6%E3%83%8B%E3%83%83%E3%83%88%E3%82%BB%E3%83%AB%E3%81%AE%E8%A6%81%E4%BB%B6-%E8%AA%AD%E3%81%BF%E8%BE%BC%E3%81%BF%E8%A8%AD%E5%AE%9A%E6%96%B9%E6%B3%95)
+* [自作ユニットセルの要件、読み込み設定方法](https://community.altair.com/discussion/38528/)
+  * https://support.sw.siemens.com/ja-JP/knowledge-base/AL38528
 * [Laminate の積層設定 Layup を csv ファイルから読み込む方法](https://community.altair.com/discussion/38185/laminate-%E3%81%AE%E7%A9%8D%E5%B1%A4%E8%A8%AD%E5%AE%9A-layup-%E3%82%92-csv-%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%BE%BC%E3%82%80%E6%96%B9%E6%B3%95)
 * [CAE エンジニアが語る RapidMiner](https://community.altair.com/discussion/40348/cae-%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%8C%E8%AA%9E%E3%82%8B-rapidminer)
 * [射出成型のそりを、繊維配向を考慮して計算する方法です。使用ソフト Inspire Mold, MultiScale Designer, OptiStruct, HyperWorks](https://community.altair.com/discussion/39341/%E5%B0%84%E5%87%BA%E6%88%90%E5%9E%8B%E3%81%AE%E3%81%9D%E3%82%8A%E3%82%92-%E7%B9%8A%E7%B6%AD%E9%85%8D%E5%90%91%E3%82%92%E8%80%83%E6%85%AE%E3%81%97%E3%81%A6%E8%A8%88%E7%AE%97%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95%E3%81%A7%E3%81%99-%E4%BD%BF%E7%94%A8%E3%82%BD%E3%83%95%E3%83%88-inspire-mold-multiscale-designer-optistruct-hyperworks)
@@ -428,7 +429,7 @@
 * [時間ステップを大きく保つためのモデリングの基本](https://community.altair.com/discussion/41049/%E6%99%82%E9%96%93%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%82%92%E5%A4%A7%E3%81%8D%E3%81%8F%E4%BF%9D%E3%81%A4%E3%81%9F%E3%82%81%E3%81%AE%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E5%9F%BA%E6%9C%AC)
 * [シリンダージョイントのモデリング方法](https://community.altair.com/discussion/41479/%E3%82%B7%E3%83%AA%E3%83%B3%E3%83%80%E3%83%BC%E3%82%B8%E3%83%A7%E3%82%A4%E3%83%B3%E3%83%88%E3%81%AE%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0%E6%96%B9%E6%B3%95)
 * [/MAT/LAW25 CRASURV 材料を用いた複合材衝突解析の例題](https://community.altair.com/discussion/38444/mat-law25-crasurv-%E6%9D%90%E6%96%99%E3%82%92%E7%94%A8%E3%81%84%E3%81%9F%E8%A4%87%E5%90%88%E6%9D%90%E8%A1%9D%E7%AA%81%E8%A7%A3%E6%9E%90%E3%81%AE%E4%BE%8B%E9%A1%8C)
-* [材料座標系の設定方法（簡単な方法限定版）](https://community.altair.com/discussion/41484/%E6%9D%90%E6%96%99%E5%BA%A7%E6%A8%99%E7%B3%BB%E3%81%AE%E8%A8%AD%E5%AE%9A%E6%96%B9%E6%B3%95-%E7%B0%A1%E5%8D%98%E3%81%AA%E6%96%B9%E6%B3%95%E9%99%90%E5%AE%9A%E7%89%88)
+* [材料座標系の設定方法（簡単な方法限定版）](https://community.altair.com/discussion/41484/)
   * https://support.sw.siemens.com/ja-JP/product/237947268/knowledge-base/AL41484
 * [計算の途中で、拘束条件を付けたり外したりする方法](https://community.altair.com/discussion/41430/%E8%A8%88%E7%AE%97%E3%81%AE%E9%80%94%E4%B8%AD%E3%81%A7-%E6%8B%98%E6%9D%9F%E6%9D%A1%E4%BB%B6%E3%82%92%E4%BB%98%E3%81%91%E3%81%9F%E3%82%8A%E5%A4%96%E3%81%97%E3%81%9F%E3%82%8A%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95)
 * [壊れたら戻らなくなるバネ要素モデリングテクニック](https://community.altair.com/discussion/38982/%E5%A3%8A%E3%82%8C%E3%81%9F%E3%82%89%E6%88%BB%E3%82%89%E3%81%AA%E3%81%8F%E3%81%AA%E3%82%8B%E3%83%90%E3%83%8D%E8%A6%81%E7%B4%A0%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF)
@@ -510,7 +511,8 @@
 * [材料座標系を決めるための座標系は、要素に材料座標系を定義するときにのみ使われます。](https://community.altair.com/discussion/60575/)
   * https://support.sw.siemens.com/ja-JP/knowledge-base/AL60575
 * [厚肉シェル /PROP/TSHELL, TYPE20 に対して、厚み方向積分点ごとの応力出力を要求する方法](https://community.altair.com/discussion/60520/%E5%8E%9A%E8%82%89%E3%82%B7%E3%82%A7%E3%83%AB-prop-tshell-type20-%E3%81%AB%E5%AF%BE%E3%81%97%E3%81%A6-%E5%8E%9A%E3%81%BF%E6%96%B9%E5%90%91%E7%A9%8D%E5%88%86%E7%82%B9%E3%81%94%E3%81%A8%E3%81%AE%E5%BF%9C%E5%8A%9B%E5%87%BA%E5%8A%9B%E3%82%92%E8%A6%81%E6%B1%82%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95)
-* [MultiScale Designer 2024.1 が NilObjectException メッセージが出て起動しないときの対処法](https://community.altair.com/discussion/60519/multiscale-designer-2024-1-%E3%81%8C-nilobjectexception-%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8%E3%81%8C%E5%87%BA%E3%81%A6%E8%B5%B7%E5%8B%95%E3%81%97%E3%81%AA%E3%81%84%E3%81%A8%E3%81%8D%E3%81%AE%E5%AF%BE%E5%87%A6%E6%B3%95)
+* [MultiScale Designer 2024.1 が NilObjectException メッセージが出て起動しないときの対処法](https://community.altair.com/discussion/60519/)
+  * https://support.sw.siemens.com/ja-JP/knowledge-base/AL60519
 * [/MAT/LAW62 の弾性パラメータを HyperStudy で同定してみよう](https://community.altair.com/discussion/60448/mat-law62-%E3%81%AE%E5%BC%BE%E6%80%A7%E3%83%91%E3%83%A9%E3%83%A1%E3%83%BC%E3%82%BF%E3%82%92-hyperstudy-%E3%81%A7%E5%90%8C%E5%AE%9A%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86)
 * [Radioss: /MAT/LAW62 のパラメータの特徴を 1要素モデルでつかんでみよう。](https://community.altair.com/discussion/60397/radioss-mat-law62-%E3%81%AE%E3%83%91%E3%83%A9%E3%83%A1%E3%83%BC%E3%82%BF%E3%81%AE%E7%89%B9%E5%BE%B4%E3%82%92-1%E8%A6%81%E7%B4%A0%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E3%81%A4%E3%81%8B%E3%82%93%E3%81%A7%E3%81%BF%E3%82%88%E3%81%86)
 * [Radioss: *BOUNDARY_PRESCRIBED_MOTION が LS-DYNA リーダーでどのように変換されるのか説明します (DOF=4,8) 限定](https://community.altair.com/discussion/60375/radioss-boundary-prescribed-motion-%E3%81%8C-ls-dyna-%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%81%A7%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E5%A4%89%E6%8F%9B%E3%81%95%E3%82%8C%E3%82%8B%E3%81%AE%E3%81%8B%E8%AA%AC%E6%98%8E%E3%81%97%E3%81%BE%E3%81%99-dof-4-8-%E9%99%90%E5%AE%9A)
@@ -526,7 +528,8 @@
   * https://community.altair.com/discussion/37058/
 * [Radioss の力による荷重条件 /CLOAD の簡単な例](https://community.altair.com/discussion/37373/radioss-%E3%81%AE%E5%8A%9B%E3%81%AB%E3%82%88%E3%82%8B%E8%8D%B7%E9%87%8D%E6%9D%A1%E4%BB%B6-cload-%E3%81%AE%E7%B0%A1%E5%8D%98%E3%81%AA%E4%BE%8B)
 * [Radioss: /MAT/LAW19 と /PROP/TYPE9 でできる、最も単純な布の表現](https://community.altair.com/discussion/37207/radioss-mat-law19-%E3%81%A8-prop-type9-%E3%81%A7%E3%81%A7%E3%81%8D%E3%82%8B-%E6%9C%80%E3%82%82%E5%8D%98%E7%B4%94%E3%81%AA%E5%B8%83%E3%81%AE%E8%A1%A8%E7%8F%BE)
-* [/INTER/TYPE25: 摩擦の基本挙動を理解する例題](https://community.altair.com/discussion/62981/inter-type25-%E6%91%A9%E6%93%A6%E3%81%AE%E5%9F%BA%E6%9C%AC%E6%8C%99%E5%8B%95%E3%82%92%E7%90%86%E8%A7%A3%E3%81%99%E3%82%8B%E4%BE%8B%E9%A1%8C)
+* [/INTER/TYPE25: 摩擦の基本挙動を理解する例題](https://community.altair.com/discussion/62981/)
+  * https://support.sw.siemens.com/ja-JP/knowledge-base/KB000224303_JA
 * [シェルの板厚を無視した接触を行う例題](https://community.altair.com/discussion/62906/%E3%82%B7%E3%82%A7%E3%83%AB%E3%81%AE%E6%9D%BF%E5%8E%9A%E3%82%92%E7%84%A1%E8%A6%96%E3%81%97%E3%81%9F%E6%8E%A5%E8%A7%A6%E3%82%92%E8%A1%8C%E3%81%86%E4%BE%8B%E9%A1%8C)
 * [強制変位 /IMPDISP で円筒の径を変更する方法](https://community.altair.com/discussion/41265/%E5%BC%B7%E5%88%B6%E5%A4%89%E4%BD%8D-impdisp-%E3%81%A7%E5%86%86%E7%AD%92%E3%81%AE%E5%BE%84%E3%82%92%E5%A4%89%E6%9B%B4%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95)
 * [トポロジー最適化で両抜きの型抜き制約を使う例題](https://community.altair.com/discussion/62730/%E3%83%88%E3%83%9D%E3%83%AD%E3%82%B8%E3%83%BC%E6%9C%80%E9%81%A9%E5%8C%96%E3%81%A7%E4%B8%A1%E6%8A%9C%E3%81%8D%E3%81%AE%E5%9E%8B%E6%8A%9C%E3%81%8D%E5%88%B6%E7%B4%84%E3%82%92%E4%BD%BF%E3%81%86%E4%BE%8B%E9%A1%8C)
