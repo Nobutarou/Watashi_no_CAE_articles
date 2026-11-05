@@ -124,7 +124,7 @@
 * [節点座標を履歴グラフファイルに書きだすには](https://community.altair.com/discussion/41298/%E7%AF%80%E7%82%B9%E5%BA%A7%E6%A8%99%E3%82%92%E5%B1%A5%E6%AD%B4%E3%82%B0%E3%83%A9%E3%83%95%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AB%E6%9B%B8%E3%81%8D%E3%81%A0%E3%81%99%E3%81%AB%E3%81%AF)
 * [if 文を使って FEM 入力データを自由に書き換える方法](https://community.altair.com/discussion/41556/if-%E6%96%87%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6-fem-%E5%85%A5%E5%8A%9B%E3%83%87%E3%83%BC%E3%82%BF%E3%82%92%E8%87%AA%E7%94%B1%E3%81%AB%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E3%82%8B%E6%96%B9%E6%B3%95)
 * [/MAT/LAW19 で DETERMINANT OF MATERIAL MATRIX IS LESS THAN 0. が出る訳](https://community.altair.com/discussion/41315/mat-law19-%E3%81%A7-determinant-of-material-matrix-is-less-than-0-%E3%81%8C%E5%87%BA%E3%82%8B%E8%A8%B3)
-* [MODCHG で要素を削除したり、追加したりしてみる](https://community.altair.com/discussion/41286/modchg-%E3%81%A7%E8%A6%81%E7%B4%A0%E3%82%92%E5%89%8A%E9%99%A4%E3%81%97%E3%81%9F%E3%82%8A-%E8%BF%BD%E5%8A%A0%E3%81%97%E3%81%9F%E3%82%8A%E3%81%97%E3%81%A6%E3%81%BF%E3%82%8B)
+* [MODCHG で要素を除したり、追加したりしてみる](https://community.altair.com/discussion/41286/modchg-%E3%81%A7%E8%A6%81%E7%B4%A0%E3%82%92%E5%89%8A%E9%99%A4%E3%81%97%E3%81%9F%E3%82%8A-%E8%BF%BD%E5%8A%A0%E3%81%97%E3%81%9F%E3%82%8A%E3%81%97%E3%81%A6%E3%81%BF%E3%82%8B)
   * https://support.sw.siemens.com/ja-JP/knowledge-base/AL41286
 * [強制変位、強制速度、強制加速度を途中で無効にする方法](https://community.altair.com/discussion/41365/%E5%BC%B7%E5%88%B6%E5%A4%89%E4%BD%8D-%E5%BC%B7%E5%88%B6%E9%80%9F%E5%BA%A6-%E5%BC%B7%E5%88%B6%E5%8A%A0%E9%80%9F%E5%BA%A6%E3%82%92%E9%80%94%E4%B8%AD%E3%81%A7%E7%84%A1%E5%8A%B9%E3%81%AB%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95)
 * [初期回転速度を与える方法](https://community.altair.com/discussion/41418/%E5%88%9D%E6%9C%9F%E5%9B%9E%E8%BB%A2%E9%80%9F%E5%BA%A6%E3%82%92%E4%B8%8E%E3%81%88%E3%82%8B%E6%96%B9%E6%B3%95)
@@ -293,6 +293,7 @@
 * [エンジンジョブを GUI 以外で止める方法](https://community.altair.com/discussion/41196/%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%96%E3%82%92-gui-%E4%BB%A5%E5%A4%96%E3%81%A7%E6%AD%A2%E3%82%81%E3%82%8B%E6%96%B9%E6%B3%95)
 * [DRESP1, ATTA=GEODEFR: 変形後のジオメトリ情報を使った応答](https://community.altair.com/discussion/65032/dresp1-atta-geodefr-%E5%A4%89%E5%BD%A2%E5%BE%8C%E3%81%AE%E3%82%B8%E3%82%AA%E3%83%A1%E3%83%88%E3%83%AA%E6%83%85%E5%A0%B1%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E5%BF%9C%E7%AD%94)
 * [ソリッドの要素品質に応じて、要素を削除する方法](https://community.altair.com/discussion/64972/)
+  * https://support.sw.siemens.com/ja-JP/knowledge-base/KB000224840_JA
 * [/PART カードのシェル板厚情報で、接触判定距離を変更する例題](https://community.altair.com/discussion/64884/part-%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AE%E3%82%B7%E3%82%A7%E3%83%AB%E6%9D%BF%E5%8E%9A%E6%83%85%E5%A0%B1%E3%81%A7-%E6%8E%A5%E8%A7%A6%E5%88%A4%E5%AE%9A%E8%B7%9D%E9%9B%A2%E3%82%92%E5%A4%89%E6%9B%B4%E3%81%99%E3%82%8B%E4%BE%8B%E9%A1%8C)
 * [ソリッド要素の異方性の例題: 円筒座標系を用いた材料方向の指定](https://community.altair.com/discussion/64810/%E3%82%BD%E3%83%AA%E3%83%83%E3%83%89%E8%A6%81%E7%B4%A0%E3%81%AE%E7%95%B0%E6%96%B9%E6%80%A7%E3%81%AE%E4%BE%8B%E9%A1%8C-%E5%86%86%E7%AD%92%E5%BA%A7%E6%A8%99%E7%B3%BB%E3%82%92%E7%94%A8%E3%81%84%E3%81%9F%E6%9D%90%E6%96%99%E6%96%B9%E5%90%91%E3%81%AE%E6%8C%87%E5%AE%9A)
 * [音響構造連成解析チュートリアル OS-T1330 を HyperMesh 2025 で実施する例題](https://community.altair.com/discussion/62267/%E9%9F%B3%E9%9F%BF%E6%A7%8B%E9%80%A0%E9%80%A3%E6%88%90%E8%A7%A3%E6%9E%90%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB-os-t1330-%E3%82%92-hypermesh-2025-%E3%81%A7%E5%AE%9F%E6%96%BD%E3%81%99%E3%82%8B%E4%BE%8B%E9%A1%8C)
@@ -662,3 +663,4 @@
 * [/FAIL/ORTHSTRAIN で /MAT/LAW25 を削除する例題](https://support.sw.siemens.com/ja-JP/okba/KB000223596_JA)
 * [Radioss の積層シェルモデルで REFERENCE DIRECTION IS ALMOST NORMAL TO SHELL エラーの出る理由と対処方法](https://support.sw.siemens.com/knowledge-base/KB000223608_JA)
 * [Multiscale Desginer: 短繊維モデルのエンドギャップ比の敏感性について](https://support.sw.siemens.com/ja-JP/knowledge-base/KB000224546_JA)
+* [Radioss: /IOFLAG を利用して /INTER/TYPE2 の結合状況を確認する方法](https://support.sw.siemens.com/knowledge-base/KB000224847_JA)
