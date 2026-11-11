@@ -265,7 +265,8 @@
 * [剛体のマスター節点の ID をクリップボードにコピーする](https://community.altair.com/discussion/3323/%E5%89%9B%E4%BD%93%E3%81%AE%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E7%AF%80%E7%82%B9%E3%81%AE-id-%E3%82%92%E3%82%AF%E3%83%AA%E3%83%83%E3%83%97%E3%83%9C%E3%83%BC%E3%83%89%E3%81%AB%E3%82%B3%E3%83%94%E3%83%BC%E3%81%99%E3%82%8B)
 * [半径の変わる回転体の強制変位を模擬する例題](https://community.altair.com/discussion/62791/%E5%8D%8A%E5%BE%84%E3%81%AE%E5%A4%89%E3%82%8F%E3%82%8B%E5%9B%9E%E8%BB%A2%E4%BD%93%E3%81%AE%E5%BC%B7%E5%88%B6%E5%A4%89%E4%BD%8D%E3%82%92%E6%A8%A1%E6%93%AC%E3%81%99%E3%82%8B%E4%BE%8B%E9%A1%8C)
 * [Radioss で摩擦を熱に変える例題](https://community.altair.com/discussion/65726/radioss-%E3%81%A7%E6%91%A9%E6%93%A6%E3%82%92%E7%86%B1%E3%81%AB%E5%A4%89%E3%81%88%E3%82%8B%E4%BE%8B%E9%A1%8C)
-* [/MAT/LAW112 紙・ダンボールなどの材料の例題: シェル編](https://community.altair.com/discussion/62673/)
+* [/MAT/LAW112 紙・ダンボールなどの材料の例題: シェル編](https://support.sw.siemens.com/knowledge-base/KB000225255_JA)
+  * https://community.altair.com/discussion/62673/
 * [/FAIL/ENERGY を使って、要素の内部エネルギ密度で要素を削除する例題](https://community.altair.com/discussion/65696/fail-energy-%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6-%E8%A6%81%E7%B4%A0%E3%81%AE%E5%86%85%E9%83%A8%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E5%AF%86%E5%BA%A6%E3%81%A7%E8%A6%81%E7%B4%A0%E3%82%92%E5%89%8A%E9%99%A4%E3%81%99%E3%82%8B%E4%BE%8B%E9%A1%8C)
 * [/LOAD/PFLUID で簡易的に空気抵抗を模擬する例題](https://community.altair.com/discussion/65663/load-pfluid-%E3%81%A7%E7%B0%A1%E6%98%93%E7%9A%84%E3%81%AB%E7%A9%BA%E6%B0%97%E6%8A%B5%E6%8A%97%E3%82%92%E6%A8%A1%E6%93%AC%E3%81%99%E3%82%8B%E4%BE%8B%E9%A1%8C)
 * [接触した後、離れにくくする 3個の例題](https://community.altair.com/discussion/65635/)
@@ -664,3 +665,4 @@
 * [Radioss の積層シェルモデルで REFERENCE DIRECTION IS ALMOST NORMAL TO SHELL エラーの出る理由と対処方法](https://support.sw.siemens.com/knowledge-base/KB000223608_JA)
 * [Multiscale Desginer: 短繊維モデルのエンドギャップ比の敏感性について](https://support.sw.siemens.com/ja-JP/knowledge-base/KB000224546_JA)
 * [Radioss: /IOFLAG を利用して /INTER/TYPE2 の結合状況を確認する方法](https://support.sw.siemens.com/knowledge-base/KB000224847_JA)
+* [Radioss: /INTER/TYPE2 の Spotflag=22 で結合を剥す例題](support.sw.siemens.com/knowledge-base/KB000225144_JA)
