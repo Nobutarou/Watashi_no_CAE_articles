@@ -311,7 +311,7 @@
 * [テトラ要素 Itetra10=2 と Itetra4=3 を用いた例題](https://community.altair.com/discussion/62020/%E3%83%86%E3%83%88%E3%83%A9%E8%A6%81%E7%B4%A0-itetra10-2-%E3%81%A8-itetra4-3-%E3%82%92%E7%94%A8%E3%81%84%E3%81%9F%E4%BE%8B%E9%A1%8C)
 * [MultiScale Designer 2025 でバッチ実行する例題](https://community.altair.com/discussion/61907/multiscale-designer-2025-%E3%81%A7%E3%83%90%E3%83%83%E3%83%81%E5%AE%9F%E8%A1%8C%E3%81%99%E3%82%8B%E4%BE%8B%E9%A1%8C)
 * [HyperMesh 2025.1 グルーピング関係が全て /SET カードに集約されます](https://community.altair.com/discussion/61859/hypermesh-2025-1-%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%94%E3%83%B3%E3%82%B0%E9%96%A2%E4%BF%82%E3%81%8C%E5%85%A8%E3%81%A6-set-%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AB%E9%9B%86%E7%B4%84%E3%81%95%E3%82%8C%E3%81%BE%E3%81%99)
-* [拘束反力の時刻歴グラフデータの出し方](https://community.altair.com/discussion/41355/%E6%8B%98%E6%9D%9F%E5%8F%8D%E5%8A%9B%E3%81%AE%E6%99%82%E5%88%BB%E6%AD%B4%E3%82%B0%E3%83%A9%E3%83%95%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E5%87%BA%E3%81%97%E6%96%B9)
+* [拘束反力の時刻歴グラフデータの出し方](https://community.altair.com/discussion/41355/)
 * [Vim で OptiStruct や Radioss に縦ライン表示を入れて見やすくする例題](https://community.altair.com/discussion/61780/vim-%E3%81%A7-optistruct-%E3%82%84-radioss-%E3%81%AB%E7%B8%A6%E3%83%A9%E3%82%A4%E3%83%B3%E8%A1%A8%E7%A4%BA%E3%82%92%E5%85%A5%E3%82%8C%E3%81%A6%E8%A6%8B%E3%82%84%E3%81%99%E3%81%8F%E3%81%99%E3%82%8B%E4%BE%8B%E9%A1%8C)
 * [フリー形状最適化で面対称にする例題](https://community.altair.com/discussion/61766/%E3%83%95%E3%83%AA%E3%83%BC%E5%BD%A2%E7%8A%B6%E6%9C%80%E9%81%A9%E5%8C%96%E3%81%A7%E9%9D%A2%E5%AF%BE%E7%A7%B0%E3%81%AB%E3%81%99%E3%82%8B%E4%BE%8B%E9%A1%8C)
 * [/FRICTION カードを使って、部品間の摩擦係数を個別に定義する例題](https://community.altair.com/discussion/61765/friction-%E3%82%AB%E3%83%BC%E3%83%89%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6-%E9%83%A8%E5%93%81%E9%96%93%E3%81%AE%E6%91%A9%E6%93%A6%E4%BF%82%E6%95%B0%E3%82%92%E5%80%8B%E5%88%A5%E3%81%AB%E5%AE%9A%E7%BE%A9%E3%81%99%E3%82%8B%E4%BE%8B%E9%A1%8C)
@@ -502,7 +502,9 @@
 * [TYPE25 接触で熱伝達を行う方法](https://community.altair.com/discussion/61058/type25-%E6%8E%A5%E8%A7%A6%E3%81%A7%E7%86%B1%E4%BC%9D%E9%81%94%E3%82%92%E8%A1%8C%E3%81%86%E6%96%B9%E6%B3%95)
 * [1点積分ヘキサ要素 HEPH の限界と厚肉シェル要素による回避](https://community.altair.com/discussion/61044/1%E7%82%B9%E7%A9%8D%E5%88%86%E3%83%98%E3%82%AD%E3%82%B5%E8%A6%81%E7%B4%A0-heph-%E3%81%AE%E9%99%90%E7%95%8C%E3%81%A8%E5%8E%9A%E8%82%89%E3%82%B7%E3%82%A7%E3%83%AB%E8%A6%81%E7%B4%A0%E3%81%AB%E3%82%88%E3%82%8B%E5%9B%9E%E9%81%BF)
 * [Radioss で 2節点間の距離を履歴グラフに出す tips](https://community.altair.com/discussion/60939/radioss-%E3%81%A7-2%E7%AF%80%E7%82%B9%E9%96%93%E3%81%AE%E8%B7%9D%E9%9B%A2%E3%82%92%E5%B1%A5%E6%AD%B4%E3%82%B0%E3%83%A9%E3%83%95%E3%81%AB%E5%87%BA%E3%81%99-tips)
-* [Radioss: ビーム要素の要素力、モーメント、応力をアニメーション出力する方法](https://community.altair.com/discussion/60938/radioss-%E3%83%93%E3%83%BC%E3%83%A0%E8%A6%81%E7%B4%A0%E3%81%AE%E8%A6%81%E7%B4%A0%E5%8A%9B-%E3%83%A2%E3%83%BC%E3%83%A1%E3%83%B3%E3%83%88-%E5%BF%9C%E5%8A%9B%E3%82%92%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E5%87%BA%E5%8A%9B%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95)
+* [Radioss: ビーム要素の要素力、モーメント、応力をアニメーション、グラフ出力する方法](https://support.sw.siemens.com/knowledge-base/AL60938)
+* https://community.altair.com/discussion/60938/
+  * https://support.sw.siemens.com/ja-JP/knowledge-base/AL60938 
 * [/MAT/LAW25: 材料試験データから、材料パラメータを同定してみる](https://community.altair.com/discussion/60861/)
   * https://support.sw.siemens.com/ja-JP/knowledge-base/AL60861
 * [良く使われる単位系セットの一覧](https://community.altair.com/discussion/60691/%E8%89%AF%E3%81%8F%E4%BD%BF%E3%82%8F%E3%82%8C%E3%82%8B%E5%8D%98%E4%BD%8D%E7%B3%BB%E3%82%BB%E3%83%83%E3%83%88%E3%81%AE%E4%B8%80%E8%A6%A7)
