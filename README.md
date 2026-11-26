@@ -671,3 +671,4 @@
 
 * [Radioss: 解析の途中で結合条件をオン、オフする方法(/INTER/TYPE10, Tstart, Tstop)](https://support.sw.siemens.com/knowledge-base/KB000226329_JA)
 * [Multiscale designer で引張と圧縮で、降伏後の特性を変えるには](https://support.sw.siemens.com/knowledge-base/KB000226448_JA)
+* [Radioss: 異方性ソリッド要素で、材料方向で、ひずみ成分を HyperView 上で評価する方法](https://support.sw.siemens.com/ja-JP/knowledge-base/KB000226470_JA)
