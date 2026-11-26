@@ -321,7 +321,7 @@
   * https://support.sw.siemens.com/ja-JP/knowledge-base/AL41633
 * [結合条件は、まよったら、両側から 2個結合条件を付けておけば OK です。](https://community.altair.com/discussion/41495/%E7%B5%90%E5%90%88%E6%9D%A1%E4%BB%B6%E3%81%AF-%E3%81%BE%E3%82%88%E3%81%A3%E3%81%9F%E3%82%89-%E4%B8%A1%E5%81%B4%E3%81%8B%E3%82%89-2%E5%80%8B%E7%B5%90%E5%90%88%E6%9D%A1%E4%BB%B6%E3%82%92%E4%BB%98%E3%81%91%E3%81%A6%E3%81%8A%E3%81%91%E3%81%B0-ok-%E3%81%A7%E3%81%99)
 * [OptiStruct: MATHE: フォーム材の例題](https://community.altair.com/discussion/61482/optistruct-mathe-%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E6%9D%90%E3%81%AE%E4%BE%8B%E9%A1%8C)
-* [/MAT/LAW12 と /FAIL/HASHIN で作る破断ありの簡単な複合材料](https://community.altair.com/discussion/37525/mat-law12-%E3%81%A8-fail-hashin-%E3%81%A7%E4%BD%9C%E3%82%8B%E7%A0%B4%E6%96%AD%E3%81%82%E3%82%8A%E3%81%AE%E7%B0%A1%E5%8D%98%E3%81%AA%E8%A4%87%E5%90%88%E6%9D%90%E6%96%99)
+* [/MAT/LAW12 と /FAIL/HASHIN で作る破断ありの簡単な複合材料](https://community.altair.com/discussion/37525/)
   * https://support.sw.siemens.com/ja-JP/knowledge-base/AL37525
 * [OptiStruct: 非線形解析をリスタートするシンプルな例題](https://community.altair.com/discussion/61436/optistruct-%E9%9D%9E%E7%B7%9A%E5%BD%A2%E8%A7%A3%E6%9E%90%E3%82%92%E3%83%AA%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%81%99%E3%82%8B%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA%E4%BE%8B%E9%A1%8C)
 * [/MAT/LAW25 CRASURV 材料を順を追って理解していきます](https://community.altair.com/discussion/60660/)
@@ -377,7 +377,7 @@
 * [KJOINT2 ばねによる球ジョイントの例題](https://community.altair.com/discussion/63558/kjoint2-%E3%81%B0%E3%81%AD%E3%81%AB%E3%82%88%E3%82%8B%E7%90%83%E3%82%B8%E3%83%A7%E3%82%A4%E3%83%B3%E3%83%88%E3%81%AE%E4%BE%8B%E9%A1%8C)
 * [接触に使うシェル要素の板厚は薄すぎないようにしましょう](https://community.altair.com/discussion/63556/%E6%8E%A5%E8%A7%A6%E3%81%AB%E4%BD%BF%E3%81%86%E3%82%B7%E3%82%A7%E3%83%AB%E8%A6%81%E7%B4%A0%E3%81%AE%E6%9D%BF%E5%8E%9A%E3%81%AF%E8%96%84%E3%81%99%E3%81%8E%E3%81%AA%E3%81%84%E3%82%88%E3%81%86%E3%81%AB%E3%81%97%E3%81%BE%E3%81%97%E3%82%87%E3%81%86)
 * [/INTER/TYPE24, TYPE25 などの全体接触に対して、特定パートへの接触力の合力の履歴プロットをする方法](https://community.altair.com/discussion/41450/inter-type24-type25-%E3%81%AA%E3%81%A9%E3%81%AE%E5%85%A8%E4%BD%93%E6%8E%A5%E8%A7%A6%E3%81%AB%E5%AF%BE%E3%81%97%E3%81%A6-%E7%89%B9%E5%AE%9A%E3%83%91%E3%83%BC%E3%83%88%E3%81%B8%E3%81%AE%E6%8E%A5%E8%A7%A6%E5%8A%9B%E3%81%AE%E5%90%88%E5%8A%9B%E3%81%AE%E5%B1%A5%E6%AD%B4%E3%83%97%E3%83%AD%E3%83%83%E3%83%88%E3%82%92%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95)
-* [/INTER/TYPE{7,11,19,25} で、エッジでの接触の挙動の違いを理解する例題](https://community.altair.com/discussion/63402/inter-type-7-11-19-25-%E3%81%A7-%E3%82%A8%E3%83%83%E3%82%B8%E3%81%A7%E3%81%AE%E6%8E%A5%E8%A7%A6%E3%81%AE%E6%8C%99%E5%8B%95%E3%81%AE%E9%81%95%E3%81%84%E3%82%92%E7%90%86%E8%A7%A3%E3%81%99%E3%82%8B%E4%BE%8B%E9%A1%8C)
+* [/INTER/TYPE{7,11,19,25} で、エッジでの接触の挙動の違いを理解する例題](https://community.altair.com/discussion/63402/)
 * [伸びたり縮んだりしている状態で組付けられたバネを模擬する方法](https://community.altair.com/discussion/41405/%E4%BC%B8%E3%81%B3%E3%81%9F%E3%82%8A%E7%B8%AE%E3%82%93%E3%81%A0%E3%82%8A%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E7%8A%B6%E6%85%8B%E3%81%A7%E7%B5%84%E4%BB%98%E3%81%91%E3%82%89%E3%82%8C%E3%81%9F%E3%83%90%E3%83%8D%E3%82%92%E6%A8%A1%E6%93%AC%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95)
 * [/INTER/TYPE25 で接触剛性をユーザー指定値にする例題](https://community.altair.com/discussion/63384/inter-type25-%E3%81%A7%E6%8E%A5%E8%A7%A6%E5%89%9B%E6%80%A7%E3%82%92%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E6%8C%87%E5%AE%9A%E5%80%A4%E3%81%AB%E3%81%99%E3%82%8B%E4%BE%8B%E9%A1%8C)
 * [MultiScale Designer 2025 で、材料モデルを選択して入力する方法](https://community.altair.com/discussion/63380/multiscale-designer-2025-%E3%81%A7-%E6%9D%90%E6%96%99%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E9%81%B8%E6%8A%9E%E3%81%97%E3%81%A6%E5%85%A5%E5%8A%9B%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95)
@@ -538,7 +538,7 @@
 * [強制変位 /IMPDISP で円筒の径を変更する方法](https://community.altair.com/discussion/41265/%E5%BC%B7%E5%88%B6%E5%A4%89%E4%BD%8D-impdisp-%E3%81%A7%E5%86%86%E7%AD%92%E3%81%AE%E5%BE%84%E3%82%92%E5%A4%89%E6%9B%B4%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95)
 * [トポロジー最適化で両抜きの型抜き制約を使う例題](https://community.altair.com/discussion/62730/%E3%83%88%E3%83%9D%E3%83%AD%E3%82%B8%E3%83%BC%E6%9C%80%E9%81%A9%E5%8C%96%E3%81%A7%E4%B8%A1%E6%8A%9C%E3%81%8D%E3%81%AE%E5%9E%8B%E6%8A%9C%E3%81%8D%E5%88%B6%E7%B4%84%E3%82%92%E4%BD%BF%E3%81%86%E4%BE%8B%E9%A1%8C)
 * [/VISC/LPRONY で超弾性材料に粘性を与える例題](https://community.altair.com/discussion/62728/visc-lprony-%E3%81%A7%E8%B6%85%E5%BC%BE%E6%80%A7%E6%9D%90%E6%96%99%E3%81%AB%E7%B2%98%E6%80%A7%E3%82%92%E4%B8%8E%E3%81%88%E3%82%8B%E4%BE%8B%E9%A1%8C)
-* [/MAT/LAW112: 紙、段ボール材料向けの異方性弾塑性材料の例題: ソリッド編](https://community.altair.com/discussion/62691/mat-law112-%E7%B4%99-%E6%AE%B5%E3%83%9C%E3%83%BC%E3%83%AB%E6%9D%90%E6%96%99%E5%90%91%E3%81%91%E3%81%AE%E7%95%B0%E6%96%B9%E6%80%A7%E5%BC%BE%E5%A1%91%E6%80%A7%E6%9D%90%E6%96%99%E3%81%AE%E4%BE%8B%E9%A1%8C-%E3%82%BD%E3%83%AA%E3%83%83%E3%83%89%E7%B7%A8)
+* [/MAT/LAW112: 紙、段ボール材料向けの異方性弾塑性材料の例題: ソリッド編](https://community.altair.com/discussion/62691/)
 * [45度の材料試験応力ひずみデータから、どのようにしてせん断応力とせん断ひずみの関係にしたらよいのでしょうか。](https://community.altair.com/discussion/60472/45%E5%BA%A6%E3%81%AE%E6%9D%90%E6%96%99%E8%A9%A6%E9%A8%93%E5%BF%9C%E5%8A%9B%E3%81%B2%E3%81%9A%E3%81%BF%E3%83%87%E3%83%BC%E3%82%BF%E3%81%8B%E3%82%89-%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E3%81%97%E3%81%A6%E3%81%9B%E3%82%93%E6%96%AD%E5%BF%9C%E5%8A%9B%E3%81%A8%E3%81%9B%E3%82%93%E6%96%AD%E3%81%B2%E3%81%9A%E3%81%BF%E3%81%AE%E9%96%A2%E4%BF%82%E3%81%AB%E3%81%97%E3%81%9F%E3%82%89%E3%82%88%E3%81%84%E3%81%AE%E3%81%A7%E3%81%97%E3%82%87%E3%81%86%E3%81%8B)
 * [鳥衝突の例題](https://community.altair.com/discussion/62641/%E9%B3%A5%E8%A1%9D%E7%AA%81%E3%81%AE%E4%BE%8B%E9%A1%8C)
 * [/IMPFLUX 強制熱流束の例題](https://community.altair.com/discussion/62624/impflux-%E5%BC%B7%E5%88%B6%E7%86%B1%E6%B5%81%E6%9D%9F%E3%81%AE%E4%BE%8B%E9%A1%8C)
@@ -668,3 +668,6 @@
 * [Multiscale Desginer: 短繊維モデルのエンドギャップ比の敏感性について](https://support.sw.siemens.com/ja-JP/knowledge-base/KB000224546_JA)
 * [Radioss: /IOFLAG を利用して /INTER/TYPE2 の結合状況を確認する方法](https://support.sw.siemens.com/knowledge-base/KB000224847_JA)
 * [Radioss: /INTER/TYPE2 の Spotflag=22 で結合を剥す例題](support.sw.siemens.com/knowledge-base/KB000225144_JA)
+
+* [Radioss: 解析の途中で結合条件をオン、オフする方法(/INTER/TYPE10, Tstart, Tstop)](https://support.sw.siemens.com/knowledge-base/KB000226329_JA)
+* [Multiscale designer で引張と圧縮で、降伏後の特性を変えるには](https://support.sw.siemens.com/knowledge-base/KB000226448_JA)
